@@ -7,10 +7,18 @@ data:
       county: Dickinson
       population: 6,844
       wikipedia: https://en.wikipedia.org/wiki/Abilene,_Kansas
-#Abilene
-#Admire
-#Agenda
-#Agra
+    - name: Admire
+      county: Lyon
+      population: 156
+      wikipedia: https://en.wikipedia.org/wiki/Admire,_Kansas
+    - name: Agenda
+      county:
+      population:
+      wikipedia: https://en.wikipedia.org/wiki/Agenda,_Kansas
+    - name: Agra
+      county:
+      population:
+      wikipedia: https://en.wikipedia.org/wiki/Agra,_Kansas
 #Albert
 #Alden
 #Alexander
