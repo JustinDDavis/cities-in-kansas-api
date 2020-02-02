@@ -10,10 +10,10 @@ class TestFlaskApp(TestCase):
     def tearDown(self) -> None:
         print("Tear down testing")
 
-    def test_homepage_is_reachable(self):
+    def test_homepage_is_reachable(self) -> None:
         response = self.app.get('/')
         assert "200 OK" == response.status
 
-    def test_get_cities_is_reachable(self):
+    def test_get_cities_is_reachable(self) -> None:
         response = self.app.get('/api/ks')
         assert "200 OK" == response.status
