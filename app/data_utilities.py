@@ -1,9 +1,8 @@
 import os
-cwd = os.getcwd()
 
 def load_data_file(name):
     print("Data file")
-    data_file = cwd + f"/data/{name}"
+    data_file = f"{name}"
     print(data_file)
     with open(data_file, 'r') as file:
         data = []
