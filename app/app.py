@@ -1,7 +1,7 @@
 
 import os
 from flask import Flask, request, jsonify
-from app.data_utilities import load_data_file
+from app.data_utilities import load_data_file, load_yaml_data_file
 
 app = Flask(__name__)
 
@@ -20,6 +20,12 @@ def get_cities():
         'data': data
     } 
     return jsonify(results)
+
+@app.route('/api/ks/cities')
+def get_filtered_cities():
+    project_folder = _project_directory()
+    data = load_yaml_data_file(f"{project_folder}/data/ks_cities.yaml")
+    return jsonify(data)
 
 def _project_directory():
     current_file = __file__  # ../project/app/app.py
