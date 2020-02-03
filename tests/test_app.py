@@ -17,3 +17,8 @@ class TestFlaskApp(TestCase):
     def test_get_cities_is_reachable(self) -> None:
         response = self.app.get('/api/ks')
         assert "200 OK" == response.status
+
+    def test_get_some_cities_is_reachable(self) -> None:
+        response = self.app.get('/api/ks/cities')
+        assert "200 OK" == response.status
+
