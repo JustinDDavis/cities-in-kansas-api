@@ -1,14 +1,13 @@
 
 import os
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from app.data_utilities import load_data_file, load_yaml_data_file
 
 app = Flask(__name__)
 
-
 @app.route('/')
 def index():
-    return "Home"
+    return render_template('index.html')
 
 
 @app.route('/api/ks', methods=['GET'])
