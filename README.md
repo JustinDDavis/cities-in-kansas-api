@@ -6,4 +6,6 @@ This project is something I put together to help reiterate my understanding of F
 judge my own development progress. 
 
 ## Demo:
+> https://justindaniel92.pythonanywhere.com/
 > https://justindaniel92.pythonanywhere.com/api/ks
+> https://justindaniel92.pythonanywhere.com/api/ks/cities
