@@ -2116,7 +2116,7 @@ data:
     population: 1,124
     wikipedia: https://en.wikipedia.org/wiki/Sedan,_Kansas
   - name: Sedgwick
-    county: Harvey, Sedgwick
+    county: Sedgwick
     population: 1,695
     wikipedia: https://en.wikipedia.org/wiki/Sedgwick,_Kansas
   - name: Selden
@@ -2460,7 +2460,7 @@ data:
     population: 382,368
     wikipedia: https://en.wikipedia.org/wiki/Wichita,_Kansas
   - name: Willard
-    county: Shawnee, Wabaunsee
+    county: Shawnee
     population: 92
     wikipedia: https://en.wikipedia.org/wiki/Willard,_Kansas
   - name: Williamsburg

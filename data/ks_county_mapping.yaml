@@ -1,0 +1,215 @@
+data:
+  Allen:
+    region: Southeast
+  Anderson:
+    region: Southeast
+  Atchison:
+    region: Northeast
+  Barber:
+    region: Southwest
+  Barton:
+    region: Northwest
+  Bourbon:
+    region: Southeast
+  Brown:
+    region: Northeast
+  Butler:
+    region: Southcentral
+  Chase:
+    region: Southcentral
+  Chautauqua:
+    region: Southeast
+  Cherokee:
+    region: Southeast
+  Cheyenne:
+    region: Northwest
+  Clark:
+    region: Southwest
+  Clay:
+    region: Northcentral
+  Cloud:
+    region: Northcentral
+  Coffey:
+    region: Southeast
+  Comanche:
+    region: Southwest
+  Cowley:
+    region: Southcentral
+  Crawford:
+    region: Southeast
+  Decatur:
+    region: Northwest
+  Dickinson:
+    region: Northcentral
+  Doniphan:
+    region: Northeast
+  Douglas:
+    region: Northeast
+  Edwards:
+    region: Southwest
+  Elk:
+    region: Southeast
+  Ellis:
+    region: Northwest
+  Ellsworth:
+    region: Northcentral
+  Finney:
+    region: Southwest
+  Ford:
+    region: Southwest
+  Franklin:
+    region: Northeast
+  Geary:
+    region: Northcentral
+  Gove:
+    region: Northwest
+  Graham:
+    region: Northwest
+  Grant:
+    region: Southwest
+  Gray:
+    region: Southwest
+  Greeley:
+    region: Southwest
+  Greenwood:
+    region: Southeast
+  Hamilton:
+    region: Southwest
+  Harper:
+    region: Southcentral
+  Harvey:
+    region: Southcentral
+  Sedgwick:
+    region: Southcentral
+  Haskell:
+    region: Southwest
+  Hodgeman:
+    region: Southwest
+  Jackson:
+    region: Northeast
+  Jefferson:
+    region: Northeast
+  Jewell:
+    region: Northcentral
+  Johnson:
+    region: Northeast
+  Kearny:
+    region: Southwest
+  Kingman:
+    region: Southcentral
+  Kiowa:
+    region: Southwest
+  Labette:
+    region: Southeast
+  Lane:
+    region: Southwest
+  Leavenworth:
+    region: Northeast
+  Lincoln:
+    region: Northcentral
+  Linn:
+    region: Southeast
+  Logan:
+    region: Northwest
+  Lyon:
+    region: Southeast
+  Marion:
+    region: Northcentral
+  Marshall:
+    region: Northeast
+  McPherson:
+    region: Northcentral
+  Meade:
+    region: Southwest
+  Miami:
+    region: Northeast
+  Mitchell:
+    region: Northcentral
+  Montgomery:
+    region: Southeast
+  Morris:
+    region: Northcentral
+  Morton:
+    region: Southwest
+  Nemaha:
+    region: Northeast
+  Neosho:
+    region: Southeast
+  Ness:
+    region: Northwest
+  Norton:
+    region: Northwest
+  Osage:
+    region: Northeast
+  Osborne:
+    region: Northwest
+  Ottawa:
+    region: Northcentral
+  Pawnee:
+    region: Southwest
+  Phillips:
+    region: Northwest
+  Pottawatomie:
+    region: Northeast
+  Pratt:
+    region: Southwest
+  Rawlins:
+    region: Northwest
+  Reno:
+    region: Southcentral
+  Republic:
+    region: Northcentral
+  Rice:
+    region: Northcentral
+  Riley:
+    region: Northcentral
+  Rooks:
+    region: Northwest
+  Rush:
+    region: Northwest
+  Russell:
+    region: Northwest
+  Saline:
+    region: Northcentral
+  Scott:
+    region: Southwest
+  Sedgwick:
+    region: Southcentral
+  Seward:
+    region: Southwest
+  Shawnee:
+    region: Northeast
+  Wabaunsee:
+    region: Northeast
+  Sheridan:
+    region: Northwest
+  Sherman:
+    region: Northwest
+  Smith:
+    region: Northwest
+  Stafford:
+    region: Southwest
+  Stanton:
+    region: Southwest
+  Stevens:
+    region: Southwest
+  Sumner:
+    region: Southcentral
+  Thomas:
+    region: Northwest
+  Trego:
+    region: Northwest
+  Wabaunsee:
+    region: Northeast
+  Wallace:
+    region: Northwest
+  Washington:
+    region: Northcentral
+  Wichita:
+    region: Southwest
+  Wilson:
+    region: Southeast
+  Woodson:
+    region: Southeast
+  Wyandotte:
+    region: Northeast
