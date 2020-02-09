@@ -49,7 +49,7 @@ mapping_of_cities_to_population= {
 current_count = 0
 list_of_cities_count = len(list_of_cities)
 
-for city in list_of_cities[:15]:
+for city in list_of_cities:
     # Wikipedia articles seem to follow this same structure
     wikipedia = f"https://en.wikipedia.org/wiki/{city},_Kansas"
     population = scrape_population_from_page(wikipedia)
