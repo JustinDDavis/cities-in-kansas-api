@@ -1,0 +1,31 @@
+data:
+- name: Abbyville
+  population: '87'
+- name: Abilene
+  population: 6,844
+- name: Admire
+  population: '156'
+- name: Agenda
+  population: '68'
+- name: Agra
+  population: '267'
+- name: Albert
+  population: '175'
+- name: Alden
+  population: '148'
+- name: Alexander
+  population: '65'
+- name: Allen
+  population: '177'
+- name: Alma
+  population: '832'
+- name: Almena
+  population: '408'
+- name: Altamont
+  population: 1,080
+- name: Alta Vista
+  population: '444'
+- name: Alton
+  population: '103'
+- name: Altoona
+  population: '414'
