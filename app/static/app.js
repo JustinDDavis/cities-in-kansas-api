@@ -17,6 +17,7 @@
                 html_results += `       <p>Population: ${city.population}</p>`;
                 html_results += `       <p>Region: ${city.region}</p>`;
                 html_results += `       <p><a href="${city.wikipedia}">Wikipedia</a></p>`;
+                html_results += `       <img src="${city.image_url}" />`;
                 html_results += `   </div>`;
                 html_results += `</div>`;
             });
