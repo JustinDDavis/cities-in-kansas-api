@@ -76,7 +76,7 @@ def join_population_to_city_name(city_payload, population_mappings):
         population = [population for population in population_mappings if population["name"] == city["name"]][0]
         print(population)
         population_data = {
-            "population": population["population"]
+            "population": population["population"].replace(',', '')
         }
         city.update(population_data)
     return city_payload
