@@ -17,8 +17,13 @@ def load_data_file(name):
 
 
 def find_image(soup):
-        image_section = soup.find('img', alt=True)
-        return "https:" + image_section["src"]
+        image_section = soup.findAll('img', alt=True)
+        all_links = [image for image in image_section if "Incorporated" in str(image)]
+        print()
+        if len(all_links) == 1:
+            return "https:" + all_links[0]["src"]
+        else:
+            return ''
 
 
 def scrape_image_link_from_page(city_wikipedia_url):
@@ -66,6 +71,7 @@ for city in list_of_cities:
         'name': city,
         'image_url': image_url
     })
+    print(image_url)
 
 # Write object to Yaml file.
 write_yaml_to_data_folder(mapping_of_cities_to_map_image, project_directory() + f"/data/ks_cities_to_image_mappings.yaml")

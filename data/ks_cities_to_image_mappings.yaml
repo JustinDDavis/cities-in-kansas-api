@@ -1,9 +1,9 @@
 data:
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Abbyville_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Abbyville_Highlighted.svg.png
   name: Abbyville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aerial_view_of_Abilene_Kansas_09-04-2013.JPG/250px-Aerial_view_of_Abilene_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Abilene_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Abilene_Highlighted.svg.png
   name: Abilene
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aerial_view_of_Admire%2C_Kansas_09-04-2013.JPG/250px-Aerial_view_of_Admire%2C_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Admire_Highlighted.svg/250px-Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Admire_Highlighted.svg.png
   name: Admire
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Agenda_Highlighted.svg/250px-Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Agenda_Highlighted.svg.png
   name: Agenda
@@ -15,15 +15,15 @@ data:
   name: Alden
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Alexander_Highlighted.svg/250px-Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Alexander_Highlighted.svg.png
   name: Alexander
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_view_of_Allen%2C_Kansas_09-04-2013.JPG/250px-Aerial_view_of_Allen%2C_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Allen_Highlighted.svg/250px-Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Allen_Highlighted.svg.png
   name: Allen
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Brandt_Hotel%2C_400_Missouri_Street%2C_Alma%2C_Kansas.jpg/250px-Brandt_Hotel%2C_400_Missouri_Street%2C_Alma%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Alma_Highlighted.svg/250px-Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Alma_Highlighted.svg.png
   name: Alma
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Almena_Highlighted.svg/250px-Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Almena_Highlighted.svg.png
   name: Almena
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Altamont_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Altamont_Highlighted.svg.png
   name: Altamont
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Alta_Vista%2C_Kansas_%281905%29.jpg/250px-Alta_Vista%2C_Kansas_%281905%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Alta_Vista_Highlighted.svg/250px-Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Alta_Vista_Highlighted.svg.png
   name: Alta Vista
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Alton_Highlighted.svg/250px-Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Alton_Highlighted.svg.png
   name: Alton
@@ -35,23 +35,23 @@ data:
   name: Andale
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Andover_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Andover_Highlighted.svg.png
   name: Andover
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Harper_County_Courthouse.png/250px-Harper_County_Courthouse.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Anthony_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Anthony_Highlighted.svg.png
   name: Anthony
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Arcadia_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Arcadia_Highlighted.svg.png
   name: Arcadia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/SusannaSalterHome.jpg/250px-SusannaSalterHome.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Argonia_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Argonia_Highlighted.svg.png
   name: Argonia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arkansas_City_Commercial_Historic_District.JPG/250px-Arkansas_City_Commercial_Historic_District.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Arkansas_City_Highlighted.svg/250px-Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Arkansas_City_Highlighted.svg.png
   name: Arkansas City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Arlington_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Arlington_Highlighted.svg.png
   name: Arlington
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Arma_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Arma_Highlighted.svg.png
   name: Arma
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/First_National_Bank_bldg_%28Ashland%2C_KS%29_from_SE_2.JPG/250px-First_National_Bank_bldg_%28Ashland%2C_KS%29_from_SE_2.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Clark_County_Kansas_Incorporated_and_Unincorporated_areas_Ashland_Highlighted.svg/250px-Clark_County_Kansas_Incorporated_and_Unincorporated_areas_Ashland_Highlighted.svg.png
   name: Ashland
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Saline_County_Kansas_Incorporated_and_Unincorporated_areas_Assaria_Highlighted.svg/250px-Saline_County_Kansas_Incorporated_and_Unincorporated_areas_Assaria_Highlighted.svg.png
   name: Assaria
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Atchison_Kansas_Commercial_Street.jpg/250px-Atchison_Kansas_Commercial_Street.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Atchison_Highlighted.svg/250px-Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Atchison_Highlighted.svg.png
   name: Atchison
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Athol_Highlighted.svg/250px-Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Athol_Highlighted.svg.png
   name: Athol
@@ -59,9 +59,9 @@ data:
   name: Atlanta
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Attica_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Attica_Highlighted.svg.png
   name: Attica
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rawlin_Co_KS_Courthouse.JPG/250px-Rawlin_Co_KS_Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rawlins_County_Kansas_Incorporated_and_Unincorporated_areas_Atwood_Highlighted.svg/250px-Rawlins_County_Kansas_Incorporated_and_Unincorporated_areas_Atwood_Highlighted.svg.png
   name: Atwood
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dtaks.JPG/250px-Dtaks.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Auburn_Highlighted.svg/250px-Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Auburn_Highlighted.svg.png
   name: Auburn
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Augusta_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Augusta_Highlighted.svg.png
   name: Augusta
@@ -69,11 +69,11 @@ data:
   name: Aurora
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Axtell_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Axtell_Highlighted.svg.png
   name: Axtell
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Downtown_Baldwin_City.jpg/250px-Downtown_Baldwin_City.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Baldwin_City_Highlighted.svg/250px-Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Baldwin_City_Highlighted.svg.png
   name: Baldwin City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lincoln_County_Kansas_Incorporated_and_Unincorporated_areas_Barnard_Highlighted.svg/250px-Lincoln_County_Kansas_Incorporated_and_Unincorporated_areas_Barnard_Highlighted.svg.png
   name: Barnard
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Barnes%2C_Kansas_welcome_sign_and_kingpost_bridge_1.JPG/250px-Barnes%2C_Kansas_welcome_sign_and_kingpost_bridge_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Barnes_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Barnes_Highlighted.svg.png
   name: Barnes
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Bartlett_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Bartlett_Highlighted.svg.png
   name: Bartlett
@@ -81,7 +81,7 @@ data:
   name: Basehor
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Bassett_Highlighted.svg/250px-Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Bassett_Highlighted.svg.png
   name: Bassett
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Downtown_Baxter_Springs.jpg/250px-Downtown_Baxter_Springs.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Baxter_Springs_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Baxter_Springs_Highlighted.svg.png
   name: Baxter Springs
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ness_County_Kansas_Incorporated_and_Unincorporated_areas_Bazine_Highlighted.svg/250px-Ness_County_Kansas_Incorporated_and_Unincorporated_areas_Bazine_Highlighted.svg.png
   name: Bazine
@@ -89,11 +89,11 @@ data:
   name: Beattie
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Bel_Aire_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Bel_Aire_Highlighted.svg.png
   name: Bel Aire
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Belle-plaine-water-tower.jpg/250px-Belle-plaine-water-tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Belle_Plaine_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Belle_Plaine_Highlighted.svg.png
   name: Belle Plaine
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Republic_Co_Kansas_Courthouse.JPG/250px-Republic_Co_Kansas_Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Belleville_Highlighted.svg/250px-Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Belleville_Highlighted.svg.png
   name: Belleville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mitchell_County%2C_Kansas_courthouse_from_NW_1.JPG/250px-Mitchell_County%2C_Kansas_courthouse_from_NW_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Beloit_Highlighted.svg/250px-Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Beloit_Highlighted.svg.png
   name: Beloit
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Belpre_Highlighted.svg/250px-Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Belpre_Highlighted.svg.png
   name: Belpre
@@ -105,7 +105,7 @@ data:
   name: Bennington
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Bentley_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Bentley_Highlighted.svg.png
   name: Bentley
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Circle_Middle_School_%28Benton%2C_Kansas%29.jpg/250px-Circle_Middle_School_%28Benton%2C_Kansas%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Benton_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Benton_Highlighted.svg.png
   name: Benton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Bern_Highlighted.svg/250px-Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Bern_Highlighted.svg.png
   name: Bern
@@ -117,13 +117,13 @@ data:
   name: Bison
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Blue_Mound_Highlighted.svg/250px-Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Blue_Mound_Highlighted.svg.png
   name: Blue Mound
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/US77LeftKS9aheadSignsRoad-BlueRapids_%2828267189253%29.jpg/250px-US77LeftKS9aheadSignsRoad-BlueRapids_%2828267189253%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Blue_Rapids_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Blue_Rapids_Highlighted.svg.png
   name: Blue Rapids
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Bluff_City_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Bluff_City_Highlighted.svg.png
   name: Bluff City
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bogue_Kansas_Township_Hall.jpg/250px-Bogue_Kansas_Township_Hall.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Graham_County_Kansas_Incorporated_and_Unincorporated_areas_Bogue_Highlighted.svg/250px-Graham_County_Kansas_Incorporated_and_Unincorporated_areas_Bogue_Highlighted.svg.png
   name: Bogue
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2017_Bonner_Springs_City_logo_FINAL_COLOR.png/100px-2017_Bonner_Springs_City_logo_FINAL_COLOR.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Bonner_Springs_Highlighted.svg/250px-Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Bonner_Springs_Highlighted.svg.png
   name: Bonner Springs
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Thomas_County_Kansas_Incorporated_and_Unincorporated_areas_Brewster_Highlighted.svg/250px-Thomas_County_Kansas_Incorporated_and_Unincorporated_areas_Brewster_Highlighted.svg.png
   name: Brewster
@@ -133,7 +133,7 @@ data:
   name: Brookville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ness_County_Kansas_Incorporated_and_Unincorporated_areas_Brownell_Highlighted.svg/250px-Ness_County_Kansas_Incorporated_and_Unincorporated_areas_Brownell_Highlighted.svg.png
   name: Brownell
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Bucklin_Water_Tower.jpg/250px-Bucklin_Water_Tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Bucklin_Highlighted.svg/250px-Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Bucklin_Highlighted.svg.png
   name: Bucklin
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Buffalo_Highlighted.svg/250px-Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Buffalo_Highlighted.svg.png
   name: Buffalo
@@ -141,53 +141,53 @@ data:
   name: Buhler
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Bunker_Hill_Highlighted.svg/250px-Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Bunker_Hill_Highlighted.svg.png
   name: Bunker Hill
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BurdenKansasWaterTower.JPG/250px-BurdenKansasWaterTower.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Burden_Highlighted.svg/250px-Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Burden_Highlighted.svg.png
   name: Burden
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Burdett_Highlighted.svg/250px-Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Burdett_Highlighted.svg.png
   name: Burdett
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burlingame_kansas_post_office_2009.jpg/250px-Burlingame_kansas_post_office_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Burlingame_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Burlingame_Highlighted.svg.png
   name: Burlingame
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Carnegie_Free_Library%2C_Burlington%2C_Kansas_%28corner_view%29.jpg/250px-Carnegie_Free_Library%2C_Burlington%2C_Kansas_%28corner_view%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_Burlington_Highlighted.svg/250px-Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_Burlington_Highlighted.svg.png
   name: Burlington
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burns_United_Methodist_Church.jpg/250px-Burns_United_Methodist_Church.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Burns_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Burns_Highlighted.svg.png
   name: Burns
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Burr_Oak_Highlighted.svg/250px-Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Burr_Oak_Highlighted.svg.png
   name: Burr Oak
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Burrton_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Burrton_Highlighted.svg.png
   name: Burrton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Abandoned_Stores_in_Bushong.JPG/250px-Abandoned_Stores_in_Bushong.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Bushong_Highlighted.svg/250px-Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Bushong_Highlighted.svg.png
   name: Bushong
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Bushton_Grain_Elevators.jpg/250px-Bushton_Grain_Elevators.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Bushton_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Bushton_Highlighted.svg.png
   name: Bushton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Byers_Highlighted.svg/250px-Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Byers_Highlighted.svg.png
   name: Byers
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Caldwell_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Caldwell_Highlighted.svg.png
   name: Caldwell
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cambridge_IOOF.jpg/250px-Cambridge_IOOF.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Cambridge_Highlighted.svg/250px-Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Cambridge_Highlighted.svg.png
   name: Cambridge
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Caney_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Caney_Highlighted.svg.png
   name: Caney
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CantonCarnegieLibrary.jpg/250px-CantonCarnegieLibrary.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Canton_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Canton_Highlighted.svg.png
   name: Canton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Carbondale%2C_Kansas.jpg/250px-Carbondale%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Carbondale_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Carbondale_Highlighted.svg.png
   name: Carbondale
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Carlton_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Carlton_Highlighted.svg.png
   name: Carlton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Cassoday_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Cassoday_Highlighted.svg.png
   name: Cassoday
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cawker_City%2C_Kansas_downtown_and_water_tower.jpg/250px-Cawker_City%2C_Kansas_downtown_and_water_tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Cawker_City_Highlighted.svg/250px-Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Cawker_City_Highlighted.svg.png
   name: Cawker City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Cedar_Highlighted.svg/250px-Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Cedar_Highlighted.svg.png
   name: Cedar
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cedar_Point_Mill%2C_Cedar_Point_Kansas.JPG/250px-Cedar_Point_Mill%2C_Cedar_Point_Kansas.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Cedar_Point_Highlighted.svg/250px-Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Cedar_Point_Highlighted.svg.png
   name: Cedar Point
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Cedar_Vale_Highlighted.svg/250px-Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Cedar_Vale_Highlighted.svg.png
   name: Cedar Vale
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Centralia_Highlighted.svg/250px-Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Centralia_Highlighted.svg.png
   name: Centralia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Aerial_photo_of_Chanute%2C_Kansas_09-04-2013.JPG/250px-Aerial_photo_of_Chanute%2C_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Chanute_Highlighted.svg/250px-Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Chanute_Highlighted.svg.png
   name: Chanute
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Business_District_Chapman_Kansas_6-3-2014.jpg/250px-Business_District_Chapman_Kansas_6-3-2014.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Chapman_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Chapman_Highlighted.svg.png
   name: Chapman
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Chase_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Chase_Highlighted.svg.png
   name: Chase
@@ -197,21 +197,21 @@ data:
   name: Cheney
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Cherokee_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Cherokee_Highlighted.svg.png
   name: Cherokee
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cherryvale%2C_KS_public_library_funded_by_Andrew_Carnegie.jpg/250px-Cherryvale%2C_KS_public_library_funded_by_Andrew_Carnegie.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Cherryvale_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Cherryvale_Highlighted.svg.png
   name: Cherryvale
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Chetopa_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Chetopa_Highlighted.svg.png
   name: Chetopa
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cimarron_Hotel_%28Cimarron_KS%29_from_E_1.JPG/250px-Cimarron_Hotel_%28Cimarron_KS%29_from_E_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Cimarron_Highlighted.svg/250px-Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Cimarron_Highlighted.svg.png
   name: Cimarron
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Circleville_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Circleville_Highlighted.svg.png
   name: Circleville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Claflin%2C_Kansas_%281900%29.jpg/250px-Claflin%2C_Kansas_%281900%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Claflin_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Claflin_Highlighted.svg.png
   name: Claflin
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Clay_County_Kansas_Courthouse.jpg/250px-Clay_County_Kansas_Courthouse.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Clay_Center_Highlighted.svg/250px-Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Clay_Center_Highlighted.svg.png
   name: Clay Center
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Clayton_Highlighted.svg/250px-Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Clayton_Highlighted.svg.png
   name: Clayton
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Street_sign_%28Clearwater%2C_Kansas_-_2006%29.jpg/250px-Street_sign_%28Clearwater%2C_Kansas_-_2006%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Clearwater_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Clearwater_Highlighted.svg.png
   name: Clearwater
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Clifton_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Clifton_Highlighted.svg.png
   name: Clifton
@@ -221,39 +221,39 @@ data:
   name: Clyde
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Coats_Highlighted.svg/250px-Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Coats_Highlighted.svg.png
   name: Coats
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Welcome_Sign_Sunrise.jpg/250px-Welcome_Sign_Sunrise.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Coffeyville_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Coffeyville_Highlighted.svg.png
   name: Coffeyville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Thomas_County_Courthouse_Colby_Kansas_5-7-2014.jpg/250px-Thomas_County_Courthouse_Colby_Kansas_5-7-2014.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Thomas_County_Kansas_Incorporated_and_Unincorporated_areas_Colby_Highlighted.svg/250px-Thomas_County_Kansas_Incorporated_and_Unincorporated_areas_Colby_Highlighted.svg.png
   name: Colby
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Comanche_County_Museum%2C_Coldwater%2C_Kansas.jpg/250px-Comanche_County_Museum%2C_Coldwater%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Comanche_County_Kansas_Incorporated_and_Unincorporated_areas_Coldwater_Highlighted.svg/250px-Comanche_County_Kansas_Incorporated_and_Unincorporated_areas_Coldwater_Highlighted.svg.png
   name: Coldwater
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Collyer%2C_Kansas_Ainslie_looking_NE_from_between_3rd_and_4th.JPG/250px-Collyer%2C_Kansas_Ainslie_looking_NE_from_between_3rd_and_4th.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trego_County_Kansas_Incorporated_and_Unincorporated_areas_Collyer_Highlighted.svg/250px-Trego_County_Kansas_Incorporated_and_Unincorporated_areas_Collyer_Highlighted.svg.png
   name: Collyer
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Colony_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Colony_Highlighted.svg.png
   name: Colony
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Columbus%2C_KS_public_library_funded_by_Andrew_Carnegie..jpg/250px-Columbus%2C_KS_public_library_funded_by_Andrew_Carnegie..jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Columbus_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Columbus_Highlighted.svg.png
   name: Columbus
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/St-_Mark_Church_2012-09-15_17-26-27.jpg/250px-St-_Mark_Church_2012-09-15_17-26-27.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Colwich_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Colwich_Highlighted.svg.png
   name: Colwich
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ConcordiaKansasPostOffice2007.jpg/250px-ConcordiaKansasPostOffice2007.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Concordia_Highlighted.svg/250px-Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Concordia_Highlighted.svg.png
   name: Concordia
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Conway_Springs_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Conway_Springs_Highlighted.svg.png
   name: Conway Springs
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Coolidge%2C_KS%2C_welcome_sign_IMG_5822.JPG/250px-Coolidge%2C_KS%2C_welcome_sign_IMG_5822.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hamilton_County_Kansas_Incorporated_and_Unincorporated_areas_Coolidge_Highlighted.svg/250px-Hamilton_County_Kansas_Incorporated_and_Unincorporated_areas_Coolidge_Highlighted.svg.png
   name: Coolidge
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Copeland_Highlighted.svg/250px-Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Copeland_Highlighted.svg.png
   name: Copeland
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Corning_Highlighted.svg/250px-Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Corning_Highlighted.svg.png
   name: Corning
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ChaseCounty%28KS%29Courthouse.JPG/250px-ChaseCounty%28KS%29Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Cottonwood_Falls_Highlighted.svg/250px-Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Cottonwood_Falls_Highlighted.svg.png
   name: Cottonwood Falls
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/City_between_the_Ages_%288216610169%29.jpg/250px-City_between_the_Ages_%288216610169%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Council_Grove_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Council_Grove_Highlighted.svg.png
   name: Council Grove
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Countryside_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Countryside_Highlighted.svg.png
   name: Countryside
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CourtlandKansasmural.jpg/250px-CourtlandKansasmural.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Courtland_Highlighted.svg/250px-Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Courtland_Highlighted.svg.png
   name: Courtland
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Coyville_Kansas.JPG/250px-Coyville_Kansas.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Coyville_Highlighted.svg/250px-Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Coyville_Highlighted.svg.png
   name: Coyville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Cuba_Highlighted.svg/250px-Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Cuba_Highlighted.svg.png
   name: Cuba
@@ -261,15 +261,15 @@ data:
   name: Cullison
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ottawa_County_Kansas_Incorporated_and_Unincorporated_areas_Culver_Highlighted.svg/250px-Ottawa_County_Kansas_Incorporated_and_Unincorporated_areas_Culver_Highlighted.svg.png
   name: Culver
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Post_office_cunningham_kansas_2009.jpg/250px-Post_office_cunningham_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Cunningham_Highlighted.svg/250px-Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Cunningham_Highlighted.svg.png
   name: Cunningham
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/StJosephInside8.jpg/250px-StJosephInside8.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Damar_Highlighted.svg/250px-Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Damar_Highlighted.svg.png
   name: Damar
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Danville_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Danville_Highlighted.svg.png
   name: Danville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Dearing_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Dearing_Highlighted.svg.png
   name: Dearing
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Deerfield_KS_Texaco_station_from_SW_1_long.JPG/250px-Deerfield_KS_Texaco_station_from_SW_1_long.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kearny_County_Kansas_Incorporated_and_Unincorporated_areas_Deerfield_Highlighted.svg/250px-Kearny_County_Kansas_Incorporated_and_Unincorporated_areas_Deerfield_Highlighted.svg.png
   name: Deerfield
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Delia_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Delia_Highlighted.svg.png
   name: Delia
@@ -281,25 +281,25 @@ data:
   name: Denton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Derby_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Derby_Highlighted.svg.png
   name: Derby
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/94/DowntownDSotoKSWtrTwr.jpg/250px-DowntownDSotoKSWtrTwr.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_De_Soto_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_De_Soto_Highlighted.svg.png
   name: De Soto
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Dexter_Highlighted.svg/250px-Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Dexter_Highlighted.svg.png
   name: Dexter
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Lane_County_Kansas_Incorporated_and_Unincorporated_areas_Dighton_Highlighted.svg/250px-Lane_County_Kansas_Incorporated_and_Unincorporated_areas_Dighton_Highlighted.svg.png
   name: Dighton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dodge_City_Longhorn.jpg/250px-Dodge_City_Longhorn.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Dodge_City_Highlighted.svg/250px-Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Dodge_City_Highlighted.svg.png
   name: Dodge City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Dorrance_Highlighted.svg/250px-Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Dorrance_Highlighted.svg.png
   name: Dorrance
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Douglass_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Douglass_Highlighted.svg.png
   name: Douglass
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Downs%2C_Kansas_Carnegie_library_from_E_1.JPG/250px-Downs%2C_Kansas_Carnegie_library_from_E_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Downs_Highlighted.svg/250px-Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Downs_Highlighted.svg.png
   name: Downs
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Dresden_Highlighted.svg/250px-Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Dresden_Highlighted.svg.png
   name: Dresden
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dunlap_Gymnasium.jpg/250px-Dunlap_Gymnasium.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Dunlap_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Dunlap_Highlighted.svg.png
   name: Dunlap
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Downtown_durham_kansas_8-7-2010.jpg/250px-Downtown_durham_kansas_8-7-2010.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Durham_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Durham_Highlighted.svg.png
   name: Durham
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Dwight_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Dwight_Highlighted.svg.png
   name: Dwight
@@ -315,13 +315,13 @@ data:
   name: Edmond
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Edna_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Edna_Highlighted.svg.png
   name: Edna
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Edwardsville.jpg/250px-Edwardsville.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Edwardsville_Highlighted.svg/250px-Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Edwardsville_Highlighted.svg.png
   name: Edwardsville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Effingham.jpg/250px-Effingham.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Effingham_Highlighted.svg/250px-Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Effingham_Highlighted.svg.png
   name: Effingham
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Elbing_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Elbing_Highlighted.svg.png
   name: Elbing
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/El_Dorado_Kansas_Pine_Main_Intersection.jpg/250px-El_Dorado_Kansas_Pine_Main_Intersection.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_El_Dorado_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_El_Dorado_Highlighted.svg.png
   name: El Dorado
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Elgin_Highlighted.svg/250px-Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Elgin_Highlighted.svg.png
   name: Elgin
@@ -329,15 +329,15 @@ data:
   name: Elk City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Elk_County_Kansas_Incorporated_and_Unincorporated_areas_Elk_Falls_Highlighted.svg/250px-Elk_County_Kansas_Incorporated_and_Unincorporated_areas_Elk_Falls_Highlighted.svg.png
   name: Elk Falls
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MortonCoCH.jpg/250px-MortonCoCH.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Morton_County_Kansas_Incorporated_and_Unincorporated_areas_Elkhart_Highlighted.svg/250px-Morton_County_Kansas_Incorporated_and_Unincorporated_areas_Elkhart_Highlighted.svg.png
   name: Elkhart
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ellinwood_P5310457.JPG/250px-Ellinwood_P5310457.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Ellinwood_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Ellinwood_Highlighted.svg.png
   name: Ellinwood
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ellis_Kansas_5-7-2014.jpg/250px-Ellis_Kansas_5-7-2014.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Ellis_Highlighted.svg/250px-Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Ellis_Highlighted.svg.png
   name: Ellis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ellsworth%2C_Kansas_water_tower_7-23-2012.jpg/250px-Ellsworth%2C_Kansas_water_tower_7-23-2012.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Ellsworth_Highlighted.svg/250px-Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Ellsworth_Highlighted.svg.png
   name: Ellsworth
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nightmare_in_Elmdale_%285617930668%29.jpg/250px-Nightmare_in_Elmdale_%285617930668%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Elmdale_Highlighted.svg/250px-Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Elmdale_Highlighted.svg.png
   name: Elmdale
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Elsmore_Highlighted.svg/250px-Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Elsmore_Highlighted.svg.png
   name: Elsmore
@@ -345,37 +345,37 @@ data:
   name: Elwood
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Emmett_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Emmett_Highlighted.svg.png
   name: Emmett
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Downtown_Emporia%2C_KS.JPG/250px-Downtown_Emporia%2C_KS.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Emporia_Highlighted.svg/250px-Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Emporia_Highlighted.svg.png
   name: Emporia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Atchison%2C_Topeka_%26_Santa_Fe_Railway_Company_depot_at_Englewood%2C_Kansas_%281896%29.jpg/250px-Atchison%2C_Topeka_%26_Santa_Fe_Railway_Company_depot_at_Englewood%2C_Kansas_%281896%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Clark_County_Kansas_Incorporated_and_Unincorporated_areas_Englewood_Highlighted.svg/250px-Clark_County_Kansas_Incorporated_and_Unincorporated_areas_Englewood_Highlighted.svg.png
   name: Englewood
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Ensign_Highlighted.svg/250px-Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Ensign_Highlighted.svg.png
   name: Ensign
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Enterprise_3.jpg/250px-Enterprise_3.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Enterprise_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Enterprise_Highlighted.svg.png
   name: Enterprise
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Erie_Highlighted.svg/250px-Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Erie_Highlighted.svg.png
   name: Erie
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Esbon_Highlighted.svg/250px-Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Esbon_Highlighted.svg.png
   name: Esbon
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eskridge%2C_Kansas_%281886%29.jpg/250px-Eskridge%2C_Kansas_%281886%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Eskridge_Highlighted.svg/250px-Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Eskridge_Highlighted.svg.png
   name: Eskridge
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pascal_%26_Eudora_Fish_Statue.jpg/250px-Pascal_%26_Eudora_Fish_Statue.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Eudora_Highlighted.svg/250px-Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Eudora_Highlighted.svg.png
   name: Eudora
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Eureka_KS_Main_St.JPG/250px-Eureka_KS_Main_St.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Eureka_Highlighted.svg/250px-Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Eureka_Highlighted.svg.png
   name: Eureka
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Everest_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Everest_Highlighted.svg.png
   name: Everest
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sunset_in_Fairview.jpg/250px-Sunset_in_Fairview.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Fairview_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Fairview_Highlighted.svg.png
   name: Fairview
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Fairway_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Fairway_Highlighted.svg.png
   name: Fairway
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Fall_River_Highlighted.svg/250px-Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Fall_River_Highlighted.svg.png
   name: Fall River
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St_Patrick_Catholic_Church_in_Florence%2C_Kansas.jpg/250px-St_Patrick_Catholic_Church_in_Florence%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Florence_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Florence_Highlighted.svg.png
   name: Florence
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fontana_City_Hall.JPG/250px-Fontana_City_Hall.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Fontana_Highlighted.svg/250px-Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Fontana_Highlighted.svg.png
   name: Fontana
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ford_kansas_post_office_2009.jpg/250px-Ford_kansas_post_office_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Ford_Highlighted.svg/250px-Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Ford_Highlighted.svg.png
   name: Ford
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Formoso_Highlighted.svg/250px-Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Formoso_Highlighted.svg.png
   name: Formoso
@@ -383,15 +383,15 @@ data:
   name: Fort Riley-Camp Whiteside
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Fort_Riley_North_Highlighted.svg/250px-Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Fort_Riley_North_Highlighted.svg.png
   name: Fort Riley North
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fs22.jpg/250px-Fs22.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Fort_Scott_Highlighted.svg/250px-Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Fort_Scott_Highlighted.svg.png
   name: Fort Scott
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fowler%2C_Kansas_city_pool_3.JPG/250px-Fowler%2C_Kansas_city_pool_3.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meade_County_Kansas_Incorporated_and_Unincorporated_areas_Fowler_Highlighted.svg/250px-Meade_County_Kansas_Incorporated_and_Unincorporated_areas_Fowler_Highlighted.svg.png
   name: Fowler
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Frankfort_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Frankfort_Highlighted.svg.png
   name: Frankfort
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Frederick_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Frederick_Highlighted.svg.png
   name: Frederick
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gold_Dust_Hotel_Fredonia_Kansas.jpg/250px-Gold_Dust_Hotel_Fredonia_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Fredonia_Highlighted.svg/250px-Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Fredonia_Highlighted.svg.png
   name: Fredonia
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Freeport_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Freeport_Highlighted.svg.png
   name: Freeport
@@ -401,23 +401,23 @@ data:
   name: Fulton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Galatia_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Galatia_Highlighted.svg.png
   name: Galatia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Downtown_Galena.jpg/250px-Downtown_Galena.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Galena_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Galena_Highlighted.svg.png
   name: Galena
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Galesburg_Highlighted.svg/250px-Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Galesburg_Highlighted.svg.png
   name: Galesburg
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Galva-Kansas-water-tower.jpg/250px-Galva-Kansas-water-tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Galva_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Galva_Highlighted.svg.png
   name: Galva
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Garden_City%2C_KS%2C_welcome_sign_IMG_5933.JPG/250px-Garden_City%2C_KS%2C_welcome_sign_IMG_5933.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Finney_County_Kansas_Incorporated_and_Unincorporated_areas_Garden_City_Highlighted.svg/250px-Finney_County_Kansas_Incorporated_and_Unincorporated_areas_Garden_City_Highlighted.svg.png
   name: Garden City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Garden_Plain_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Garden_Plain_Highlighted.svg.png
   name: Garden Plain
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Gardner_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Gardner_Highlighted.svg.png
   name: Gardner
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Post_office_city_hall_library_garfield_kansas_2009.jpg/250px-Post_office_city_hall_library_garfield_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Garfield_Highlighted.svg/250px-Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Garfield_Highlighted.svg.png
   name: Garfield
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anderson_County_Courthouse.JPG/250px-Anderson_County_Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Garnett_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Garnett_Highlighted.svg.png
   name: Garnett
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gaskanwatertower.jpg/250px-Gaskanwatertower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Gas_Highlighted.svg/250px-Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Gas_Highlighted.svg.png
   name: Gas
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Gaylord_Highlighted.svg/250px-Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Gaylord_Highlighted.svg.png
   name: Gaylord
@@ -427,31 +427,31 @@ data:
   name: Geneseo
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Geuda_Springs_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Geuda_Springs_Highlighted.svg.png
   name: Geuda Springs
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Girard%2C_Kansas_Flag_9-2-2012.JPG/250px-Girard%2C_Kansas_Flag_9-2-2012.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Girard_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Girard_Highlighted.svg.png
   name: Girard
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Glade_Highlighted.svg/250px-Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Glade_Highlighted.svg.png
   name: Glade
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Glasco_Highlighted.svg/250px-Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Glasco_Highlighted.svg.png
   name: Glasco
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Glen_Elder_-_Kansas_-_Statue_of_Liberty.jpg/250px-Glen_Elder_-_Kansas_-_Statue_of_Liberty.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Glen_Elder_Highlighted.svg/250px-Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Glen_Elder_Highlighted.svg.png
   name: Glen Elder
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pic_of_Goddard.jpg/250px-Pic_of_Goddard.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Goddard_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Goddard_Highlighted.svg.png
   name: Goddard
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alexanderwohl-church.jpg/250px-Alexanderwohl-church.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Goessel_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Goessel_Highlighted.svg.png
   name: Goessel
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Goff_National_Bank.jpg/250px-Goff_National_Bank.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Goff_Highlighted.svg/250px-Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Goff_Highlighted.svg.png
   name: Goff
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/World%27s_largest_easel_in_Goodland%2C_Kansas_5-20-2014.jpg/250px-World%27s_largest_easel_in_Goodland%2C_Kansas_5-20-2014.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sherman_County_Kansas_Incorporated_and_Unincorporated_areas_Goodland_Highlighted.svg/250px-Sherman_County_Kansas_Incorporated_and_Unincorporated_areas_Goodland_Highlighted.svg.png
   name: Goodland
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Gorham_Highlighted.svg/250px-Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Gorham_Highlighted.svg.png
   name: Gorham
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Gove_City_Highlighted.svg/250px-Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Gove_City_Highlighted.svg.png
   name: Gove City
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grainfield.jpg/250px-Grainfield.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Grainfield_Highlighted.svg/250px-Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Grainfield_Highlighted.svg.png
   name: Grainfield
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Geary_County_Kansas_Incorporated_and_Unincorporated_areas_Grandview_Plaza_Highlighted.svg/250px-Geary_County_Kansas_Incorporated_and_Unincorporated_areas_Grandview_Plaza_Highlighted.svg.png
   name: Grandview Plaza
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Downtown_Great_Bend_Kansas_5-5-2012.jpg/250px-Downtown_Great_Bend_Kansas_5-5-2012.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Great_Bend_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Great_Bend_Highlighted.svg.png
   name: Great Bend
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Greeley_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Greeley_Highlighted.svg.png
   name: Greeley
@@ -459,7 +459,7 @@ data:
   name: Green
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Greenleaf_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Greenleaf_Highlighted.svg.png
   name: Greenleaf
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Greensburg_kansas_watertower_2009.jpg/250px-Greensburg_kansas_watertower_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kiowa_County_Kansas_Incorporated_and_Unincorporated_areas_Greensburg_Highlighted.svg/250px-Kiowa_County_Kansas_Incorporated_and_Unincorporated_areas_Greensburg_Highlighted.svg.png
   name: Greensburg
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Elk_County_Kansas_Incorporated_and_Unincorporated_areas_Grenola_Highlighted.svg/250px-Elk_County_Kansas_Incorporated_and_Unincorporated_areas_Grenola_Highlighted.svg.png
   name: Grenola
@@ -471,9 +471,9 @@ data:
   name: Gypsum
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Haddam_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Haddam_Highlighted.svg.png
   name: Haddam
-- image_url: https://upload.wikimedia.org/wikipedia/commons/0/09/Greetings_Halstead.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Halstead_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Halstead_Highlighted.svg.png
   name: Halstead
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamilton-water-tower.jpg/250px-Hamilton-water-tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Hamilton_Highlighted.svg/250px-Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Hamilton_Highlighted.svg.png
   name: Hamilton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Hamlin_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Hamlin_Highlighted.svg.png
   name: Hamlin
@@ -483,7 +483,7 @@ data:
   name: Hanston
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Hardtner_Highlighted.svg/250px-Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Hardtner_Highlighted.svg.png
   name: Hardtner
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Harper_Train_Station.jpg/250px-Harper_Train_Station.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Harper_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Harper_Highlighted.svg.png
   name: Harper
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Harris_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Harris_Highlighted.svg.png
   name: Harris
@@ -493,13 +493,13 @@ data:
   name: Harveyville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Havana_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Havana_Highlighted.svg.png
   name: Havana
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HavenMural.JPG/250px-HavenMural.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Haven_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Haven_Highlighted.svg.png
   name: Haven
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Havensville_School.JPG/250px-Old_Havensville_School.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Havensville_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Havensville_Highlighted.svg.png
   name: Havensville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kiowa_County_Kansas_Incorporated_and_Unincorporated_areas_Haviland_Highlighted.svg/250px-Kiowa_County_Kansas_Incorporated_and_Unincorporated_areas_Haviland_Highlighted.svg.png
   name: Haviland
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hays_KS%2C_10_x_Main_NW_corner_1.JPG/250px-Hays_KS%2C_10_x_Main_NW_corner_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Hays_Highlighted.svg/250px-Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Hays_Highlighted.svg.png
   name: Hays
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Haysville_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Haysville_Highlighted.svg.png
   name: Haysville
@@ -507,19 +507,19 @@ data:
   name: Hazelton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Hepler_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Hepler_Highlighted.svg.png
   name: Hepler
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Herington%2C_Kansas_09-04-2013.JPG/250px-Aerial_view_of_Herington%2C_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Herington_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Herington_Highlighted.svg.png
   name: Herington
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rawlins_County_Kansas_Incorporated_and_Unincorporated_areas_Herndon_Highlighted.svg/250px-Rawlins_County_Kansas_Incorporated_and_Unincorporated_areas_Herndon_Highlighted.svg.png
   name: Herndon
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hesston-alliman.jpg/250px-Hesston-alliman.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Hesston_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Hesston_Highlighted.svg.png
   name: Hesston
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BrownCoKScourthouse.JPG/250px-BrownCoKScourthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Hiawatha_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Hiawatha_Highlighted.svg.png
   name: Hiawatha
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_Highland_Highlighted.svg/250px-Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_Highland_Highlighted.svg.png
   name: Highland
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Graham_County_Kansas_Incorporated_and_Unincorporated_areas_Hill_City_Highlighted.svg/250px-Graham_County_Kansas_Incorporated_and_Unincorporated_areas_Hill_City_Highlighted.svg.png
   name: Hill City
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tabor-loewen.jpg/250px-Tabor-loewen.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Hillsboro_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Hillsboro_Highlighted.svg.png
   name: Hillsboro
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Hoisington_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Hoisington_Highlighted.svg.png
   name: Hoisington
@@ -527,25 +527,25 @@ data:
   name: Holcomb
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Hollenberg_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Hollenberg_Highlighted.svg.png
   name: Hollenberg
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Holton_KS_2007.JPG/250px-Holton_KS_2007.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Holton_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Holton_Highlighted.svg.png
   name: Holton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Holyrood_Highlighted.svg/250px-Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Holyrood_Highlighted.svg.png
   name: Holyrood
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_photo_of_Hope%2C_Kansas_09-04-2013.JPG/250px-Aerial_photo_of_Hope%2C_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Hope_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Hope_Highlighted.svg.png
   name: Hope
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Greeley_County_Kansas_Incorporated_and_Unincorporated_areas_Horace_Highlighted.svg/250px-Greeley_County_Kansas_Incorporated_and_Unincorporated_areas_Horace_Highlighted.svg.png
   name: Horace
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Horton%2C_KS_post_office_from_SE_1.JPG/250px-Horton%2C_KS_post_office_from_SE_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Horton_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Horton_Highlighted.svg.png
   name: Horton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elk_County_Kansas_Incorporated_and_Unincorporated_areas_Howard_Highlighted.svg/250px-Elk_County_Kansas_Incorporated_and_Unincorporated_areas_Howard_Highlighted.svg.png
   name: Howard
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sheridan_County_Kansas_Incorporated_and_Unincorporated_areas_Hoxie_Highlighted.svg/250px-Sheridan_County_Kansas_Incorporated_and_Unincorporated_areas_Hoxie_Highlighted.svg.png
   name: Hoxie
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Downtown_Hoyt%2C_Kansas.jpg/250px-Downtown_Hoyt%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Hoyt_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Hoyt_Highlighted.svg.png
   name: Hoyt
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Hudson_Highlighted.svg/250px-Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Hudson_Highlighted.svg.png
   name: Hudson
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/StevensCoCH.jpg/250px-StevensCoCH.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stevens_County_Kansas_Incorporated_and_Unincorporated_areas_Hugoton_Highlighted.svg/250px-Stevens_County_Kansas_Incorporated_and_Unincorporated_areas_Hugoton_Highlighted.svg.png
   name: Hugoton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Humboldt_Highlighted.svg/250px-Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Humboldt_Highlighted.svg.png
   name: Humboldt
@@ -555,37 +555,37 @@ data:
   name: Hunter
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Huron_Highlighted.svg/250px-Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Huron_Highlighted.svg.png
   name: Huron
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Reno_County_Courthouse.jpg/250px-Reno_County_Courthouse.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Hutchinson_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Hutchinson_Highlighted.svg.png
   name: Hutchinson
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Memorial_Hall%2C_Independence%2C_KS.jpg/250px-Memorial_Hall%2C_Independence%2C_KS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Independence_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Independence_Highlighted.svg.png
   name: Independence
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Ingalls_Highlighted.svg/250px-Gray_County_Kansas_Incorporated_and_Unincorporated_areas_Ingalls_Highlighted.svg.png
   name: Ingalls
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Inman%2C_Kansas.jpg/250px-Inman%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Inman_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Inman_Highlighted.svg.png
   name: Inman
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Downtown_Iola%2C_KS.jpg/250px-Downtown_Iola%2C_KS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Iola_Highlighted.svg/250px-Allen_County_Kansas_Incorporated_and_Unincorporated_areas_Iola_Highlighted.svg.png
   name: Iola
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Isabel_Highlighted.svg/250px-Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Isabel_Highlighted.svg.png
   name: Isabel
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Iuka_Highlighted.svg/250px-Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Iuka_Highlighted.svg.png
   name: Iuka
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jamestown_Welcome_Sign.jpg/250px-Jamestown_Welcome_Sign.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Jamestown_Highlighted.svg/250px-Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Jamestown_Highlighted.svg.png
   name: Jamestown
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Jennings_Highlighted.svg/250px-Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Jennings_Highlighted.svg.png
   name: Jennings
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Main_Street%2C_Jetmore%2C_Kansas.JPG/250px-Main_Street%2C_Jetmore%2C_Kansas.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hodgeman_County_Kansas_Incorporated_and_Unincorporated_areas_Jetmore_Highlighted.svg/250px-Hodgeman_County_Kansas_Incorporated_and_Unincorporated_areas_Jetmore_Highlighted.svg.png
   name: Jetmore
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Jewell_Highlighted.svg/250px-Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Jewell_Highlighted.svg.png
   name: Jewell
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Johnson%2C_Kansas_downtown_2.JPG/250px-Johnson%2C_Kansas_downtown_2.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Stanton_County_Kansas_Incorporated_and_Unincorporated_areas_Johnson_City_Highlighted.svg/250px-Stanton_County_Kansas_Incorporated_and_Unincorporated_areas_Johnson_City_Highlighted.svg.png
   name: Johnson City
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Geary_county_courthouse_kansas.jpg/250px-Geary_county_courthouse_kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Geary_County_Kansas_Incorporated_and_Unincorporated_areas_Junction_City_Highlighted.svg/250px-Geary_County_Kansas_Incorporated_and_Unincorporated_areas_Junction_City_Highlighted.svg.png
   name: Junction City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Kanopolis_Highlighted.svg/250px-Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Kanopolis_Highlighted.svg.png
   name: Kanopolis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kanorado.jpg/250px-Kanorado.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sherman_County_Kansas_Incorporated_and_Unincorporated_areas_Kanorado_Highlighted.svg/250px-Sherman_County_Kansas_Incorporated_and_Unincorporated_areas_Kanorado_Highlighted.svg.png
   name: Kanorado
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Kansas_City_Highlighted.svg/250px-Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Kansas_City_Highlighted.svg.png
   name: Kansas City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Kechi_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Kechi_Highlighted.svg.png
   name: Kechi
@@ -593,57 +593,57 @@ data:
   name: Kensington
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Kincaid_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Kincaid_Highlighted.svg.png
   name: Kincaid
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kingman_kansas_business_district_2009.jpg/250px-Kingman_kansas_business_district_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Kingman_Highlighted.svg/250px-Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Kingman_Highlighted.svg.png
   name: Kingman
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Watertower_in_Kinsley_Kansas_4-5-2008.jpg/250px-Watertower_in_Kinsley_Kansas_4-5-2008.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Kinsley_Highlighted.svg/250px-Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Kinsley_Highlighted.svg.png
   name: Kinsley
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Kiowa_Highlighted.svg/250px-Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Kiowa_Highlighted.svg.png
   name: Kiowa
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kirwin%2C_Kansas_city_hall_from_S_1.JPG/250px-Kirwin%2C_Kansas_city_hall_from_S_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Kirwin_Highlighted.svg/250px-Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Kirwin_Highlighted.svg.png
   name: Kirwin
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Seward_County_Kansas_Incorporated_and_Unincorporated_areas_Kismet_Highlighted.svg/250px-Seward_County_Kansas_Incorporated_and_Unincorporated_areas_Kismet_Highlighted.svg.png
   name: Kismet
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Labette_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Labette_Highlighted.svg.png
   name: Labette
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Welcome_Sign_La_Crosse_Kansas_5-5-2010.jpg/250px-Welcome_Sign_La_Crosse_Kansas_5-5-2010.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rush_County_Kansas_Incorporated_and_Unincorporated_areas_La_Crosse_Highlighted.svg/250px-Rush_County_Kansas_Incorporated_and_Unincorporated_areas_La_Crosse_Highlighted.svg.png
   name: La Crosse
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Linn_County_Kansas_Incorporated_and_Unincorporated_areas_La_Cygne_Highlighted.svg/250px-Linn_County_Kansas_Incorporated_and_Unincorporated_areas_La_Cygne_Highlighted.svg.png
   name: La Cygne
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aerial_View_of_La_Harpe_Kansas_09-04-2013.JPG/250px-Aerial_View_of_La_Harpe_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Allen_County_Kansas_Incorporated_and_Unincorporated_areas_La_Harpe_Highlighted.svg/250px-Allen_County_Kansas_Incorporated_and_Unincorporated_areas_La_Harpe_Highlighted.svg.png
   name: La Harpe
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Lake_Quivira_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Lake_Quivira_Highlighted.svg.png
   name: Lake Quivira
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Downtown_Lakin%2C_KS_IMG_5846.JPG/250px-Downtown_Lakin%2C_KS_IMG_5846.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kearny_County_Kansas_Incorporated_and_Unincorporated_areas_Lakin_Highlighted.svg/250px-Kearny_County_Kansas_Incorporated_and_Unincorporated_areas_Lakin_Highlighted.svg.png
   name: Lakin
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_view_of_Lancaster%2C_Kansas_9-2-2013.JPG/250px-Aerial_view_of_Lancaster%2C_Kansas_9-2-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Lancaster_Highlighted.svg/250px-Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Lancaster_Highlighted.svg.png
   name: Lancaster
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Lane_Highlighted.svg/250px-Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Lane_Highlighted.svg.png
   name: Lane
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Langdon_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Langdon_Highlighted.svg.png
   name: Langdon
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lansing_High_School_marching_band.JPG/250px-Lansing_High_School_marching_band.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Lansing_Highlighted.svg/250px-Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Lansing_Highlighted.svg.png
   name: Lansing
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Downtown_larned_kansas_2009.jpg/250px-Downtown_larned_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Larned_Highlighted.svg/250px-Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Larned_Highlighted.svg.png
   name: Larned
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Latham-saloon-latham.jpg/250px-Latham-saloon-latham.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Latham_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Latham_Highlighted.svg.png
   name: Latham
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Latimer_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Latimer_Highlighted.svg.png
   name: Latimer
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/City_of_Lawrence%2C_Kansas_montage.png/250px-City_of_Lawrence%2C_Kansas_montage.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Lawrence_Highlighted.svg/250px-Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Lawrence_Highlighted.svg.png
   name: Lawrence
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Downtown_Leavenworth%2C_Kansas.jpg/250px-Downtown_Leavenworth%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Leavenworth_Highlighted.svg/250px-Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Leavenworth_Highlighted.svg.png
   name: Leavenworth
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Leawood_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Leawood_Highlighted.svg.png
   name: Leawood
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/48states_plaque.jpg/250px-48states_plaque.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Lebanon_Highlighted.svg/250px-Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Lebanon_Highlighted.svg.png
   name: Lebanon
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aerial_view_of_Lebo_Kansas_9-14-2014.JPG/250px-Aerial_view_of_Lebo_Kansas_9-14-2014.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_Lebo_Highlighted.svg/250px-Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_Lebo_Highlighted.svg.png
   name: Lebo
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Constitution_Hall_%282%29.JPG/250px-Constitution_Hall_%282%29.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Lecompton_Highlighted.svg/250px-Douglas_County_Kansas_Incorporated_and_Unincorporated_areas_Lecompton_Highlighted.svg.png
   name: Lecompton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Skyline_of_Lehigh%2C_Kansas.jpg/250px-Skyline_of_Lehigh%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Lehigh_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Lehigh_Highlighted.svg.png
   name: Lehigh
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lenexa_City_Center.jpg/250px-Lenexa_City_Center.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Lenexa_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Lenexa_Highlighted.svg.png
   name: Lenexa
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Lenora_Highlighted.svg/250px-Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Lenora_Highlighted.svg.png
   name: Lenora
@@ -653,29 +653,29 @@ data:
   name: Leona
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Leonardville_Highlighted.svg/250px-Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Leonardville_Highlighted.svg.png
   name: Leonardville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Leoti.JPG/250px-Leoti.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wichita_County_Kansas_Incorporated_and_Unincorporated_areas_Leoti_Highlighted.svg/250px-Wichita_County_Kansas_Incorporated_and_Unincorporated_areas_Leoti_Highlighted.svg.png
   name: Leoti
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_Le_Roy_Highlighted.svg/250px-Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_Le_Roy_Highlighted.svg.png
   name: Le Roy
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Central_pivot_irrigation.jpg/250px-Central_pivot_irrigation.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Lewis_Highlighted.svg/250px-Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Lewis_Highlighted.svg.png
   name: Lewis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Liberal%2C_KS%2C_welcome_sign_IMG_5968.JPG/106px-Liberal%2C_KS%2C_welcome_sign_IMG_5968.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seward_County_Kansas_Incorporated_and_Unincorporated_areas_Liberal_Highlighted.svg/250px-Seward_County_Kansas_Incorporated_and_Unincorporated_areas_Liberal_Highlighted.svg.png
   name: Liberal
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Liberty_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Liberty_Highlighted.svg.png
   name: Liberty
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Liebenthal_Highlighted.svg/250px-Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Liebenthal_Highlighted.svg.png
   name: Liebenthal
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Small_town_evening_%284691861030%29.jpg/250px-Small_town_evening_%284691861030%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lincoln_County_Kansas_Incorporated_and_Unincorporated_areas_Lincoln_Center_Highlighted.svg/250px-Lincoln_County_Kansas_Incorporated_and_Unincorporated_areas_Lincoln_Center_Highlighted.svg.png
   name: Lincoln Center
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Lincolnville_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Lincolnville_Highlighted.svg.png
   name: Lincolnville
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Lindsborg%2C_Kansas.jpg/250px-Lindsborg%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Lindsborg_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Lindsborg_Highlighted.svg.png
   name: Lindsborg
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Linn_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Linn_Highlighted.svg.png
   name: Linn
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Linn_Valley_Highlighted.svg/250px-Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Linn_Valley_Highlighted.svg.png
   name: Linn Valley
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LinwoodAerial.png/250px-LinwoodAerial.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Linwood_Highlighted.svg/250px-Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Linwood_Highlighted.svg.png
   name: Linwood
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Little_River_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Little_River_Highlighted.svg.png
   name: Little River
@@ -683,7 +683,7 @@ data:
   name: Logan
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Lone_Elm_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Lone_Elm_Highlighted.svg.png
   name: Lone Elm
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Longford%2C_Kansas%2C_circa_July_2017.jpg/250px-Longford%2C_Kansas%2C_circa_July_2017.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Longford_Highlighted.svg/250px-Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Longford_Highlighted.svg.png
   name: Longford
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Long_Island_Highlighted.svg/250px-Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Long_Island_Highlighted.svg.png
   name: Long Island
@@ -693,7 +693,7 @@ data:
   name: Lorraine
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Lost_Springs_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Lost_Springs_Highlighted.svg.png
   name: Lost Springs
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Downtown_Louisburg%2C_Kansas.jpg/250px-Downtown_Louisburg%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Louisburg_Highlighted.svg/250px-Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Louisburg_Highlighted.svg.png
   name: Louisburg
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Louisville_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Louisville_Highlighted.svg.png
   name: Louisville
@@ -701,7 +701,7 @@ data:
   name: Lucas
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Luray_Highlighted.svg/250px-Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Luray_Highlighted.svg.png
   name: Luray
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lyndon_kansas_2009.jpg/250px-Lyndon_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Lyndon_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Lyndon_Highlighted.svg.png
   name: Lyndon
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Lyons_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Lyons_Highlighted.svg.png
   name: Lyons
@@ -717,9 +717,9 @@ data:
   name: Macksville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_McLouth_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_McLouth_Highlighted.svg.png
   name: McLouth
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/McPherson_Sculpture.jpg/250px-McPherson_Sculpture.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_McPherson_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_McPherson_Highlighted.svg.png
   name: McPherson
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Madison-Kansas-depot-atsf-back-side.jpg/250px-Madison-Kansas-depot-atsf-back-side.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Madison_Highlighted.svg/250px-Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Madison_Highlighted.svg.png
   name: Madison
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Mahaska_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Mahaska_Highlighted.svg.png
   name: Mahaska
@@ -727,7 +727,7 @@ data:
   name: Maize
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Manchester_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Manchester_Highlighted.svg.png
   name: Manchester
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Riley_%28Kansas%29_County_Courthouse_1.jpg/250px-Riley_%28Kansas%29_County_Courthouse_1.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Manhattan_Highlighted.svg/250px-Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Manhattan_Highlighted.svg.png
   name: Manhattan
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Mankato_Highlighted.svg/250px-Jewell_County_Kansas_Incorporated_and_Unincorporated_areas_Mankato_Highlighted.svg.png
   name: Mankato
@@ -737,27 +737,27 @@ data:
   name: Maple Hill
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Mapleton_Highlighted.svg/250px-Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Mapleton_Highlighted.svg.png
   name: Mapleton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MarionCoCH.JPG/250px-MarionCoCH.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Marion_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Marion_Highlighted.svg.png
   name: Marion
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Train_stop_in_Marquette%2C_Kansas.jpg/250px-Train_stop_in_Marquette%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Marquette_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Marquette_Highlighted.svg.png
   name: Marquette
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Watertower_marysville_kansas_2009.jpg/250px-Watertower_marysville_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Marysville_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Marysville_Highlighted.svg.png
   name: Marysville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Matfield_Green_Highlighted.svg/250px-Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Matfield_Green_Highlighted.svg.png
   name: Matfield Green
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Downtown_Mayetta%2C_Kansas.jpg/250px-Downtown_Mayetta%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Mayetta_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Mayetta_Highlighted.svg.png
   name: Mayetta
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Mayfield_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Mayfield_Highlighted.svg.png
   name: Mayfield
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Courthouse_-_Meade%2C_Kansas_%281910%29.jpg/250px-Courthouse_-_Meade%2C_Kansas_%281910%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Meade_County_Kansas_Incorporated_and_Unincorporated_areas_Meade_Highlighted.svg/250px-Meade_County_Kansas_Incorporated_and_Unincorporated_areas_Meade_Highlighted.svg.png
   name: Meade
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MedicineLodgePeaceTreatyAmphitheater.png/250px-MedicineLodgePeaceTreatyAmphitheater.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Medicine_Lodge_Highlighted.svg/250px-Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Medicine_Lodge_Highlighted.svg.png
   name: Medicine Lodge
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Melvern_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Melvern_Highlighted.svg.png
   name: Melvern
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Thomas_County_Kansas_Incorporated_and_Unincorporated_areas_Menlo_Highlighted.svg/250px-Thomas_County_Kansas_Incorporated_and_Unincorporated_areas_Menlo_Highlighted.svg.png
   name: Menlo
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DowntownMeridenKansas.jpg/250px-DowntownMeridenKansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Meriden_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Meriden_Highlighted.svg.png
   name: Meriden
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Merriam_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Merriam_Highlighted.svg.png
   name: Merriam
@@ -769,13 +769,13 @@ data:
   name: Milford
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Miltonvale_Highlighted.svg/250px-Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Miltonvale_Highlighted.svg.png
   name: Miltonvale
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Downtown_minneapolis_kansas_2009.jpg/250px-Downtown_minneapolis_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ottawa_County_Kansas_Incorporated_and_Unincorporated_areas_Minneapolis_Highlighted.svg/250px-Ottawa_County_Kansas_Incorporated_and_Unincorporated_areas_Minneapolis_Highlighted.svg.png
   name: Minneapolis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Minneola_Reformed_Presbyterian_Church.jpg/250px-Minneola_Reformed_Presbyterian_Church.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Clark_County_Kansas_Incorporated_and_Unincorporated_areas_Minneola_Highlighted.svg/250px-Clark_County_Kansas_Incorporated_and_Unincorporated_areas_Minneola_Highlighted.svg.png
   name: Minneola
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Mission_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Mission_Highlighted.svg.png
   name: Mission
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mission_Hills_1.JPG/250px-Mission_Hills_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Mission_Hills_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Mission_Hills_Highlighted.svg.png
   name: Mission Hills
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Mission_Woods_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Mission_Woods_Highlighted.svg.png
   name: Mission Woods
@@ -787,13 +787,13 @@ data:
   name: Moran
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Morganville_Highlighted.svg/250px-Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Morganville_Highlighted.svg.png
   name: Morganville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kansas_-_Morland_Community_Foundation_Inc_building_%282017%29.jpg/250px-Kansas_-_Morland_Community_Foundation_Inc_building_%282017%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Graham_County_Kansas_Incorporated_and_Unincorporated_areas_Morland_Highlighted.svg/250px-Graham_County_Kansas_Incorporated_and_Unincorporated_areas_Morland_Highlighted.svg.png
   name: Morland
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Morrill_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Morrill_Highlighted.svg.png
   name: Morrill
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Morrowville_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Morrowville_Highlighted.svg.png
   name: Morrowville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Moscow%2C_Kansas%2C_2007.jpg/250px-Moscow%2C_Kansas%2C_2007.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Stevens_County_Kansas_Incorporated_and_Unincorporated_areas_Moscow_Highlighted.svg/250px-Stevens_County_Kansas_Incorporated_and_Unincorporated_areas_Moscow_Highlighted.svg.png
   name: Moscow
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Mound_City_Highlighted.svg/250px-Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Mound_City_Highlighted.svg.png
   name: Mound City
@@ -805,7 +805,7 @@ data:
   name: Mount Hope
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Mulberry_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Mulberry_Highlighted.svg.png
   name: Mulberry
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MT_Ligget_sculptures_Mullinville_Kansas.jpg/250px-MT_Ligget_sculptures_Mullinville_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kiowa_County_Kansas_Incorporated_and_Unincorporated_areas_Mullinville_Highlighted.svg/250px-Kiowa_County_Kansas_Incorporated_and_Unincorporated_areas_Mullinville_Highlighted.svg.png
   name: Mullinville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Mulvane_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Mulvane_Highlighted.svg.png
   name: Mulvane
@@ -817,7 +817,7 @@ data:
   name: Narka
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Nashville_Highlighted.svg/250px-Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Nashville_Highlighted.svg.png
   name: Nashville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Downtown_Natoma%2C_Kansas.jpg/250px-Downtown_Natoma%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Natoma_Highlighted.svg/250px-Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Natoma_Highlighted.svg.png
   name: Natoma
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Neodesha_Highlighted.svg/250px-Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_Neodesha_Highlighted.svg.png
   name: Neodesha
@@ -825,9 +825,9 @@ data:
   name: Neosho Falls
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Neosho_Rapids_Highlighted.svg/250px-Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Neosho_Rapids_Highlighted.svg.png
   name: Neosho Rapids
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ness_County_Bank.jpg/250px-Ness_County_Bank.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ness_County_Kansas_Incorporated_and_Unincorporated_areas_Ness_City_Highlighted.svg/250px-Ness_County_Kansas_Incorporated_and_Unincorporated_areas_Ness_City_Highlighted.svg.png
   name: Ness City
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Netawaka_Water_Tower.jpg/250px-Netawaka_Water_Tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Netawaka_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Netawaka_Highlighted.svg.png
   name: Netawaka
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_New_Albany_Highlighted.svg/250px-Wilson_County_Kansas_Incorporated_and_Unincorporated_areas_New_Albany_Highlighted.svg.png
   name: New Albany
@@ -835,29 +835,29 @@ data:
   name: New Cambria
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_New_Strawn_Highlighted.svg/250px-Coffey_County_Kansas_Incorporated_and_Unincorporated_areas_New_Strawn_Highlighted.svg.png
   name: New Strawn
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Newton_City_Hall%2C_Kansas.jpg/250px-Newton_City_Hall%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Newton_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Newton_Highlighted.svg.png
   name: Newton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nickerson_KS%2C_Elevator.JPG/250px-Nickerson_KS%2C_Elevator.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Nickerson_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Nickerson_Highlighted.svg.png
   name: Nickerson
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Niotaze_Post_Office.jpg/250px-Niotaze_Post_Office.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Niotaze_Highlighted.svg/250px-Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Niotaze_Highlighted.svg.png
   name: Niotaze
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Norcatur%2C_Kansas_1937_city_hall_from_SW_2.JPG/250px-Norcatur%2C_Kansas_1937_city_hall_from_SW_2.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Norcatur_Highlighted.svg/250px-Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Norcatur_Highlighted.svg.png
   name: Norcatur
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bethel-memorial-hall.jpg/250px-Bethel-memorial-hall.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_North_Newton_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_North_Newton_Highlighted.svg.png
   name: North Newton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Norton_Co_KS_Courthouse.JPG/250px-Norton_Co_KS_Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Norton_Highlighted.svg/250px-Norton_County_Kansas_Incorporated_and_Unincorporated_areas_Norton_Highlighted.svg.png
   name: Norton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Nortonville_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Nortonville_Highlighted.svg.png
   name: Nortonville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Norwich-IOOF.jpg/250px-Norwich-IOOF.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Norwich_Highlighted.svg/250px-Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Norwich_Highlighted.svg.png
   name: Norwich
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Oak_Hill_Highlighted.svg/250px-Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Oak_Hill_Highlighted.svg.png
   name: Oak Hill
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Oaklawn-Sunview_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Oaklawn-Sunview_Highlighted.svg.png
   name: Oaklawn-Sunview
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gove_County_sign_in_Oakley%2C_Kansas_8-20-2011.JPG/250px-Gove_County_sign_in_Oakley%2C_Kansas_8-20-2011.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logan_County_Kansas_Incorporated_and_Unincorporated_areas_Oakley_Highlighted.svg/250px-Logan_County_Kansas_Incorporated_and_Unincorporated_areas_Oakley_Highlighted.svg.png
   name: Oakley
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oberlin_skyline.JPG/250px-Oberlin_skyline.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Oberlin_Highlighted.svg/250px-Decatur_County_Kansas_Incorporated_and_Unincorporated_areas_Oberlin_Highlighted.svg.png
   name: Oberlin
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Offerle_Highlighted.svg/250px-Edwards_County_Kansas_Incorporated_and_Unincorporated_areas_Offerle_Highlighted.svg.png
   name: Offerle
@@ -865,7 +865,7 @@ data:
   name: Ogden
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Oketo_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Oketo_Highlighted.svg.png
   name: Oketo
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Olathe_City_Hall.jpg/250px-Olathe_City_Hall.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Olathe_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Olathe_Highlighted.svg.png
   name: Olathe
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Olivet_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Olivet_Highlighted.svg.png
   name: Olivet
@@ -879,37 +879,37 @@ data:
   name: Onaga
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Oneida_Highlighted.svg/250px-Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Oneida_Highlighted.svg.png
   name: Oneida
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aerial_view_of_Osage_City%2C_Kansas_09-04-2013.JPG/250px-Aerial_view_of_Osage_City%2C_Kansas_09-04-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Osage_City_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Osage_City_Highlighted.svg.png
   name: Osage City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Osawatomie_Highlighted.svg/250px-Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Osawatomie_Highlighted.svg.png
   name: Osawatomie
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Osborne_County_Courthouse%2C_Osborne%2C_KS.JPG/250px-Osborne_County_Courthouse%2C_Osborne%2C_KS.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Osborne_Highlighted.svg/250px-Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Osborne_Highlighted.svg.png
   name: Osborne
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Oskaloosa%2C_Kansas_9-16-2014.JPG/250px-Oskaloosa%2C_Kansas_9-16-2014.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Oskaloosa_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Oskaloosa_Highlighted.svg.png
   name: Oskaloosa
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Oswego%2C_KS_public_library_funded_by_Andrew_Carnegie..jpg/250px-Oswego%2C_KS_public_library_funded_by_Andrew_Carnegie..jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Oswego_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Oswego_Highlighted.svg.png
   name: Oswego
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Otis_Highlighted.svg/250px-Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Otis_Highlighted.svg.png
   name: Otis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Downtown_Ottawa%2C_Kansas_historic_district.jpg/250px-Downtown_Ottawa%2C_Kansas_historic_district.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Ottawa_Highlighted.svg/250px-Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Ottawa_Highlighted.svg.png
   name: Ottawa
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Overbrook_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Overbrook_Highlighted.svg.png
   name: Overbrook
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/DwntwnOPKS.png/250px-DwntwnOPKS.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Overland_Park_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Overland_Park_Highlighted.svg.png
   name: Overland Park
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Oxford_Mill_-_front.jpg/250px-Oxford_Mill_-_front.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Oxford_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Oxford_Highlighted.svg.png
   name: Oxford
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Ozawkie_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Ozawkie_Highlighted.svg.png
   name: Ozawkie
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Palco_Kansas_Township_Hall.jpg/250px-Palco_Kansas_Township_Hall.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Palco_Highlighted.svg/250px-Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Palco_Highlighted.svg.png
   name: Palco
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Palmer_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Palmer_Highlighted.svg.png
   name: Palmer
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Downtown_paola_kansas2_2009.jpg/250px-Downtown_paola_kansas2_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Paola_Highlighted.svg/250px-Miami_County_Kansas_Incorporated_and_Unincorporated_areas_Paola_Highlighted.svg.png
   name: Paola
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Paradiseks1.jpg/250px-Paradiseks1.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Paradise_Highlighted.svg/250px-Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Paradise_Highlighted.svg.png
   name: Paradise
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Park_kansas_grain_storage.jpg/250px-Park_kansas_grain_storage.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Park_Highlighted.svg/250px-Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Park_Highlighted.svg.png
   name: Park
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Park_City_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Park_City_Highlighted.svg.png
   name: Park City
@@ -917,29 +917,29 @@ data:
   name: Parker
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Parkerville_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Parkerville_Highlighted.svg.png
   name: Parkerville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Parsons%2C_KS_former_public_library_building_funded_by_Andrew_Carnegie..jpg/250px-Parsons%2C_KS_former_public_library_building_funded_by_Andrew_Carnegie..jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Parsons_Highlighted.svg/250px-Labette_County_Kansas_Incorporated_and_Unincorporated_areas_Parsons_Highlighted.svg.png
   name: Parsons
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Partridge_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Partridge_Highlighted.svg.png
   name: Partridge
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pawnee_Rock_2013-09-26_14-17-58.jpg/250px-Pawnee_Rock_2013-09-26_14-17-58.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Pawnee_Rock_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Pawnee_Rock_Highlighted.svg.png
   name: Pawnee Rock
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paxico_kansas_2009.jpg/250px-Paxico_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Paxico_Highlighted.svg/250px-Wabaunsee_County_Kansas_Incorporated_and_Unincorporated_areas_Paxico_Highlighted.svg.png
   name: Paxico
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/City_Hall_in_Peabody%2C_Kansas.jpg/250px-City_Hall_in_Peabody%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Peabody_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Peabody_Highlighted.svg.png
   name: Peabody
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Penalosa_Highlighted.svg/250px-Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Penalosa_Highlighted.svg.png
   name: Penalosa
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/PerryKS.jpg/250px-PerryKS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Perry_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Perry_Highlighted.svg.png
   name: Perry
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Peru_Highlighted.svg/250px-Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Peru_Highlighted.svg.png
   name: Peru
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Phillips_Co_KS_Courthouse.JPG/250px-Phillips_Co_KS_Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Phillipsburg_Highlighted.svg/250px-Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Phillipsburg_Highlighted.svg.png
   name: Phillipsburg
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Downtown_pittsburg_ks.jpg/250px-Downtown_pittsburg_ks.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Pittsburg_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Pittsburg_Highlighted.svg.png
   name: Pittsburg
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Meade_County_Kansas_Incorporated_and_Unincorporated_areas_Plains_Highlighted.svg/250px-Meade_County_Kansas_Incorporated_and_Unincorporated_areas_Plains_Highlighted.svg.png
   name: Plains
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plainville_Kansas_Veterans_Memorial_%282%29.jpg/250px-Plainville_Kansas_Veterans_Memorial_%282%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Plainville_Highlighted.svg/250px-Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Plainville_Highlighted.svg.png
   name: Plainville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Pleasanton_Highlighted.svg/250px-Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Pleasanton_Highlighted.svg.png
   name: Pleasanton
@@ -949,15 +949,15 @@ data:
   name: Pomona
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Portis_Highlighted.svg/250px-Osborne_County_Kansas_Incorporated_and_Unincorporated_areas_Portis_Highlighted.svg.png
   name: Portis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Potwin_water_tower.JPG/250px-Potwin_water_tower.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Potwin_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Potwin_Highlighted.svg.png
   name: Potwin
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Powhattan_Post_Office.JPG/250px-Powhattan_Post_Office.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Powhattan_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Powhattan_Highlighted.svg.png
   name: Powhattan
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Prairie_View_Highlighted.svg/250px-Phillips_County_Kansas_Incorporated_and_Unincorporated_areas_Prairie_View_Highlighted.svg.png
   name: Prairie View
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Prairie_Village_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Prairie_Village_Highlighted.svg.png
   name: Prairie Village
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Post_office_pratt_kansas_2009.jpg/250px-Post_office_pratt_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Pratt_Highlighted.svg/250px-Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Pratt_Highlighted.svg.png
   name: Pratt
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Prescott_Highlighted.svg/250px-Linn_County_Kansas_Incorporated_and_Unincorporated_areas_Prescott_Highlighted.svg.png
   name: Prescott
@@ -967,11 +967,11 @@ data:
   name: Pretty Prairie
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Princeton_Highlighted.svg/250px-Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Princeton_Highlighted.svg.png
   name: Princeton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Protection%2C_Kansas_%281913%29.jpg/250px-Protection%2C_Kansas_%281913%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Comanche_County_Kansas_Incorporated_and_Unincorporated_areas_Protection_Highlighted.svg/250px-Comanche_County_Kansas_Incorporated_and_Unincorporated_areas_Protection_Highlighted.svg.png
   name: Protection
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Quenemo_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Quenemo_Highlighted.svg.png
   name: Quenemo
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Quinter.jpg/250px-Quinter.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Quinter_Highlighted.svg/250px-Gove_County_Kansas_Incorporated_and_Unincorporated_areas_Quinter_Highlighted.svg.png
   name: Quinter
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Radium_Highlighted.svg/250px-Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Radium_Highlighted.svg.png
   name: Radium
@@ -987,7 +987,7 @@ data:
   name: Rantoul
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Raymond_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Raymond_Highlighted.svg.png
   name: Raymond
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Reading_Bank_%26_Post_Office.JPG/250px-Reading_Bank_%26_Post_Office.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Reading_Highlighted.svg/250px-Lyon_County_Kansas_Incorporated_and_Unincorporated_areas_Reading_Highlighted.svg.png
   name: Reading
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Redfield_Highlighted.svg/250px-Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Redfield_Highlighted.svg.png
   name: Redfield
@@ -1003,39 +1003,39 @@ data:
   name: Richmond
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Riley_Highlighted.svg/250px-Riley_County_Kansas_Incorporated_and_Unincorporated_areas_Riley_Highlighted.svg.png
   name: Riley
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Aerial_view_of_Robinson%2C_Kansas_9-2-2013.JPG/250px-Aerial_view_of_Robinson%2C_Kansas_9-2-2013.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Robinson_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Robinson_Highlighted.svg.png
   name: Robinson
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Roeland_Park_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Roeland_Park_Highlighted.svg.png
   name: Roeland Park
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rolla%2C_Kansas_panorama_1935.jpg/250px-Rolla%2C_Kansas_panorama_1935.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Morton_County_Kansas_Incorporated_and_Unincorporated_areas_Rolla_Highlighted.svg/250px-Morton_County_Kansas_Incorporated_and_Unincorporated_areas_Rolla_Highlighted.svg.png
   name: Rolla
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rose_hill_water_tower.jpg/250px-Rose_hill_water_tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Rose_Hill_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Rose_Hill_Highlighted.svg.png
   name: Rose Hill
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Roseland_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Roseland_Highlighted.svg.png
   name: Roseland
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Downtown_Rossville.jpg/250px-Downtown_Rossville.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Rossville_Highlighted.svg/250px-Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Rossville_Highlighted.svg.png
   name: Rossville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Rozel_Highlighted.svg/250px-Pawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Rozel_Highlighted.svg.png
   name: Rozel
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Rush_Center_Highlighted.svg/250px-Rush_County_Kansas_Incorporated_and_Unincorporated_areas_Rush_Center_Highlighted.svg.png
   name: Rush Center
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Main_Street_Russell_Kansas_8-7-2009.jpg/250px-Main_Street_Russell_Kansas_8-7-2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Russell_Highlighted.svg/250px-Russell_County_Kansas_Incorporated_and_Unincorporated_areas_Russell_Highlighted.svg.png
   name: Russell
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Logan_County_Kansas_Incorporated_and_Unincorporated_areas_Russell_Springs_Highlighted.svg/250px-Logan_County_Kansas_Incorporated_and_Unincorporated_areas_Russell_Springs_Highlighted.svg.png
   name: Russell Springs
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/US_Post_Office_Sabetha_Kansas_5-6-2014.jpg/250px-US_Post_Office_Sabetha_Kansas_5-6-2014.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Sabetha_Highlighted.svg/250px-Nemaha_County_Kansas_Incorporated_and_Unincorporated_areas_Sabetha_Highlighted.svg.png
   name: Sabetha
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cheyenne_Co_KS_Courthouse.JPG/250px-Cheyenne_Co_KS_Courthouse.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cheyenne_County_Kansas_Incorporated_and_Unincorporated_areas_St._Francis_Highlighted.svg/250px-Cheyenne_County_Kansas_Incorporated_and_Unincorporated_areas_St._Francis_Highlighted.svg.png
   name: St. Francis
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St._George%2C_Kansas.jpg/250px-St._George%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_St._George_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_St._George_Highlighted.svg.png
   name: St. George
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_St._John_Highlighted.svg/250px-Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_St._John_Highlighted.svg.png
   name: St. John
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/StMarysKs.JPG/250px-StMarysKs.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_St._Marys_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_St._Marys_Highlighted.svg.png
   name: St. Marys
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_St._Paul_Highlighted.svg/250px-Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_St._Paul_Highlighted.svg.png
   name: St. Paul
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Salina_water_tower.jpg/250px-Salina_water_tower.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Saline_County_Kansas_Incorporated_and_Unincorporated_areas_Salina_Highlighted.svg/250px-Saline_County_Kansas_Incorporated_and_Unincorporated_areas_Salina_Highlighted.svg.png
   name: Salina
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Haskell_County_Kansas_Incorporated_and_Unincorporated_areas_Satanta_Highlighted.svg/250px-Haskell_County_Kansas_Incorporated_and_Unincorporated_areas_Satanta_Highlighted.svg.png
   name: Satanta
@@ -1043,21 +1043,21 @@ data:
   name: Savonburg
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Sawyer_Highlighted.svg/250px-Pratt_County_Kansas_Incorporated_and_Unincorporated_areas_Sawyer_Highlighted.svg.png
   name: Sawyer
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scammon%2C_Kansas_%28circa_1900_-_1910%29.jpg/250px-Scammon%2C_Kansas_%28circa_1900_-_1910%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Scammon_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Scammon_Highlighted.svg.png
   name: Scammon
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Scandia_Highlighted.svg/250px-Republic_County_Kansas_Incorporated_and_Unincorporated_areas_Scandia_Highlighted.svg.png
   name: Scandia
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Schoenchen_Highlighted.svg/250px-Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Schoenchen_Highlighted.svg.png
   name: Schoenchen
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Scott_City.jpg/250px-Scott_City.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Scott_County_Kansas_Incorporated_and_Unincorporated_areas_Scott_City_Highlighted.svg/250px-Scott_County_Kansas_Incorporated_and_Unincorporated_areas_Scott_City_Highlighted.svg.png
   name: Scott City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Scottsville_Highlighted.svg/250px-Mitchell_County_Kansas_Incorporated_and_Unincorporated_areas_Scottsville_Highlighted.svg.png
   name: Scottsville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Scranton_kansas_post_office_2009.jpg/250px-Scranton_kansas_post_office_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Scranton_Highlighted.svg/250px-Osage_County_Kansas_Incorporated_and_Unincorporated_areas_Scranton_Highlighted.svg.png
   name: Scranton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sedan%2C_Kansas.jpg/250px-Sedan%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Sedan_Highlighted.svg/250px-Chautauqua_County_Kansas_Incorporated_and_Unincorporated_areas_Sedan_Highlighted.svg.png
   name: Sedan
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sedgwick_Water_Tower.JPG/250px-Sedgwick_Water_Tower.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Sedgwick_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Sedgwick_Highlighted.svg.png
   name: Sedgwick
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sheridan_County_Kansas_Incorporated_and_Unincorporated_areas_Selden_Highlighted.svg/250px-Sheridan_County_Kansas_Incorporated_and_Unincorporated_areas_Selden_Highlighted.svg.png
   name: Selden
@@ -1069,17 +1069,17 @@ data:
   name: Severy
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Seward_Highlighted.svg/250px-Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Seward_Highlighted.svg.png
   name: Seward
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sharon-Kansas2.jpg/250px-Sharon-Kansas2.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Sharon_Highlighted.svg/250px-Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Sharon_Highlighted.svg.png
   name: Sharon
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wallace_County%2C_Kansas_courthouse_from_S_1.JPG/250px-Wallace_County%2C_Kansas_courthouse_from_S_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wallace_County_Kansas_Incorporated_and_Unincorporated_areas_Sharon_Springs_Highlighted.svg/250px-Wallace_County_Kansas_Incorporated_and_Unincorporated_areas_Sharon_Springs_Highlighted.svg.png
   name: Sharon Springs
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/5/55/ShawneeKansasSeal.png/100px-ShawneeKansasSeal.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Shawnee_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Shawnee_Highlighted.svg.png
   name: Shawnee
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Slks.JPG/250px-Slks.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Silver_Lake_Highlighted.svg/250px-Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Silver_Lake_Highlighted.svg.png
   name: Silver Lake
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Simpson_Highlighted.svg/250px-Cloud_County_Kansas_Incorporated_and_Unincorporated_areas_Simpson_Highlighted.svg.png
   name: Simpson
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/First_National_Bank_-_Smith_Center%2C_KS_%281%29.jpg/250px-First_National_Bank_-_Smith_Center%2C_KS_%281%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Smith_Center_Highlighted.svg/250px-Smith_County_Kansas_Incorporated_and_Unincorporated_areas_Smith_Center_Highlighted.svg.png
   name: Smith Center
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saline_County_Kansas_Incorporated_and_Unincorporated_areas_Smolan_Highlighted.svg/250px-Saline_County_Kansas_Incorporated_and_Unincorporated_areas_Smolan_Highlighted.svg.png
   name: Smolan
@@ -1089,7 +1089,7 @@ data:
   name: Solomon
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_South_Haven_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_South_Haven_Highlighted.svg.png
   name: South Haven
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/5/50/SouthHutchinsonKansasSeal.png/100px-SouthHutchinsonKansasSeal.png
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_South_Hutchinson_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_South_Hutchinson_Highlighted.svg.png
   name: South Hutchinson
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Spearville_Highlighted.svg/250px-Ford_County_Kansas_Incorporated_and_Unincorporated_areas_Spearville_Highlighted.svg.png
   name: Spearville
@@ -1099,29 +1099,29 @@ data:
   name: Spivey
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Spring_Hill_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Spring_Hill_Highlighted.svg.png
   name: Spring Hill
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Farmers_National_Bank_NRHP_06000392_Stafford_County%2C_KS.jpg/250px-Farmers_National_Bank_NRHP_06000392_Stafford_County%2C_KS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Stafford_Highlighted.svg/250px-Stafford_County_Kansas_Incorporated_and_Unincorporated_areas_Stafford_Highlighted.svg.png
   name: Stafford
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Stark_Highlighted.svg/250px-Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Stark_Highlighted.svg.png
   name: Stark
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Sterling_Highlighted.svg/250px-Rice_County_Kansas_Incorporated_and_Unincorporated_areas_Sterling_Highlighted.svg.png
   name: Sterling
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rooks_County%2C_Kansas_courthouse_from_NE_1.JPG/250px-Rooks_County%2C_Kansas_courthouse_from_NE_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Stockton_Highlighted.svg/250px-Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Stockton_Highlighted.svg.png
   name: Stockton
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Strong_city_grocery_kansas_2009.jpg/250px-Strong_city_grocery_kansas_2009.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Strong_City_Highlighted.svg/250px-Chase_County_Kansas_Incorporated_and_Unincorporated_areas_Strong_City_Highlighted.svg.png
   name: Strong City
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sublette%2C_KS_Co-op_grain_elevator_IMG_5967.JPG/250px-Sublette%2C_KS_Co-op_grain_elevator_IMG_5967.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Haskell_County_Kansas_Incorporated_and_Unincorporated_areas_Sublette_Highlighted.svg/250px-Haskell_County_Kansas_Incorporated_and_Unincorporated_areas_Sublette_Highlighted.svg.png
   name: Sublette
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/KS99sSignRoad-Summerfield_%2828267184373%29.jpg/250px-KS99sSignRoad-Summerfield_%2828267184373%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Summerfield_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Summerfield_Highlighted.svg.png
   name: Summerfield
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Sun_City_Highlighted.svg/250px-Barber_County_Kansas_Incorporated_and_Unincorporated_areas_Sun_City_Highlighted.svg.png
   name: Sun City
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Susank_Highlighted.svg/250px-Barton_County_Kansas_Incorporated_and_Unincorporated_areas_Susank_Highlighted.svg.png
   name: Susank
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sylvan_Grove%2C_Kansas_UP_depot_from_SW_1.JPG/250px-Sylvan_Grove%2C_Kansas_UP_depot_from_SW_1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lincoln_County_Kansas_Incorporated_and_Unincorporated_areas_Sylvan_Grove_Highlighted.svg/250px-Lincoln_County_Kansas_Incorporated_and_Unincorporated_areas_Sylvan_Grove_Highlighted.svg.png
   name: Sylvan Grove
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Sylvia_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Sylvia_Highlighted.svg.png
   name: Sylvia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Another_view_of_downtown_Syracuse%2C_KS_IMG_5834.JPG/250px-Another_view_of_downtown_Syracuse%2C_KS_IMG_5834.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hamilton_County_Kansas_Incorporated_and_Unincorporated_areas_Syracuse_Highlighted.svg/250px-Hamilton_County_Kansas_Incorporated_and_Unincorporated_areas_Syracuse_Highlighted.svg.png
   name: Syracuse
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Tampa_Highlighted.svg/250px-Marion_County_Kansas_Incorporated_and_Unincorporated_areas_Tampa_Highlighted.svg.png
   name: Tampa
@@ -1135,7 +1135,7 @@ data:
   name: Tipton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Tonganoxie_Highlighted.svg/250px-Leavenworth_County_Kansas_Incorporated_and_Unincorporated_areas_Tonganoxie_Highlighted.svg.png
   name: Tonganoxie
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Topeka_Kansas_collage_by_Ian_Ballinger.jpg/250px-Topeka_Kansas_collage_by_Ian_Ballinger.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Topeka_Highlighted.svg/250px-Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Topeka_Highlighted.svg.png
   name: Topeka
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Woodson_County_Kansas_Incorporated_and_Unincorporated_areas_Toronto_Highlighted.svg/250px-Woodson_County_Kansas_Incorporated_and_Unincorporated_areas_Toronto_Highlighted.svg.png
   name: Toronto
@@ -1143,17 +1143,17 @@ data:
   name: Towanda
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Treece_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Treece_Highlighted.svg.png
   name: Treece
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Greeley_County%2C_Kansas_courthouse_W_entrance.JPG/250px-Greeley_County%2C_Kansas_courthouse_W_entrance.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Greeley_County_Kansas_Incorporated_and_Unincorporated_areas_Tribune_Highlighted.svg/250px-Greeley_County_Kansas_Incorporated_and_Unincorporated_areas_Tribune_Highlighted.svg.png
   name: Tribune
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Troy_Kansas.jpg/250px-Troy_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_Troy_Highlighted.svg/250px-Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_Troy_Highlighted.svg.png
   name: Troy
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Turon_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Turon_Highlighted.svg.png
   name: Turon
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Tyro_Highlighted.svg/250px-Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Tyro_Highlighted.svg.png
   name: Tyro
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Udall%2C_KS.jpg/250px-Udall%2C_KS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Udall_Highlighted.svg/250px-Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Udall_Highlighted.svg.png
   name: Udall
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grant_County%2C_Kansas_courthouse_from_W_2.JPG/250px-Grant_County%2C_Kansas_courthouse_from_W_2.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Grant_County_Kansas_Incorporated_and_Unincorporated_areas_Ulysses_Highlighted.svg/250px-Grant_County_Kansas_Incorporated_and_Unincorporated_areas_Ulysses_Highlighted.svg.png
   name: Ulysses
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Uniontown_Highlighted.svg/250px-Bourbon_County_Kansas_Incorporated_and_Unincorporated_areas_Uniontown_Highlighted.svg.png
   name: Uniontown
@@ -1161,19 +1161,19 @@ data:
   name: Utica
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Valley_Center_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Valley_Center_Highlighted.svg.png
   name: Valley Center
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Valley_Falls_Kansas_9-16-2014.JPG/250px-Valley_Falls_Kansas_9-16-2014.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Valley_Falls_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Valley_Falls_Highlighted.svg.png
   name: Valley Falls
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Vermillion_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Vermillion_Highlighted.svg.png
   name: Vermillion
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victoria_Kansas_Cathedral_of_the_Plains_Front.jpg/250px-Victoria_Kansas_Cathedral_of_the_Plains_Front.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Victoria_Highlighted.svg/250px-Ellis_County_Kansas_Incorporated_and_Unincorporated_areas_Victoria_Highlighted.svg.png
   name: Victoria
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Vining_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Vining_Highlighted.svg.png
   name: Vining
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ViolaHS.jpg/250px-ViolaHS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Viola_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Viola_Highlighted.svg.png
   name: Viola
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Virgil_city_hall_virgil_kansas_3-15-2005.jpg/250px-Virgil_city_hall_virgil_kansas_3-15-2005.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Virgil_Highlighted.svg/250px-Greenwood_County_Kansas_Incorporated_and_Unincorporated_areas_Virgil_Highlighted.svg.png
   name: Virgil
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Trego_County_fairgrounds_exhibit_bldg_through_gates1.JPG/250px-Trego_County_fairgrounds_exhibit_bldg_through_gates1.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Trego_County_Kansas_Incorporated_and_Unincorporated_areas_WaKeeney_Highlighted.svg/250px-Trego_County_Kansas_Incorporated_and_Unincorporated_areas_WaKeeney_Highlighted.svg.png
   name: WaKeeney
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Wakefield_Highlighted.svg/250px-Clay_County_Kansas_Incorporated_and_Unincorporated_areas_Wakefield_Highlighted.svg.png
   name: Wakefield
@@ -1181,17 +1181,17 @@ data:
   name: Waldo
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Waldron_Highlighted.svg/250px-Harper_County_Kansas_Incorporated_and_Unincorporated_areas_Waldron_Highlighted.svg.png
   name: Waldron
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FtWallaceMuseum.jpg/250px-FtWallaceMuseum.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wallace_County_Kansas_Incorporated_and_Unincorporated_areas_Wallace_Highlighted.svg/250px-Wallace_County_Kansas_Incorporated_and_Unincorporated_areas_Wallace_Highlighted.svg.png
   name: Wallace
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Walnut_Highlighted.svg/250px-Crawford_County_Kansas_Incorporated_and_Unincorporated_areas_Walnut_Highlighted.svg.png
   name: Walnut
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Walton_City_Hall_in_Walton%2C_Kansas.jpg/250px-Walton_City_Hall_in_Walton%2C_Kansas.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Walton_Highlighted.svg/250px-Harvey_County_Kansas_Incorporated_and_Unincorporated_areas_Walton_Highlighted.svg.png
   name: Walton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Wamego_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Wamego_Highlighted.svg.png
   name: Wamego
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg/250px-Washington_County_Kansas_Incorporated_and_Unincorporated_areas_Washington_Highlighted.svg.png
   name: Washington
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Waterville_Opera_House.JPG/250px-Waterville_Opera_House.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Waterville_Highlighted.svg/250px-Marshall_County_Kansas_Incorporated_and_Unincorporated_areas_Waterville_Highlighted.svg.png
   name: Waterville
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_Wathena_Highlighted.svg/250px-Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_Wathena_Highlighted.svg.png
   name: Wathena
@@ -1201,17 +1201,17 @@ data:
   name: Webber
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Weir_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_Weir_Highlighted.svg.png
   name: Weir
-- image_url: https://upload.wikimedia.org/wikipedia/en/4/4f/Wellingtonsign.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Wellington_Highlighted.svg/250px-Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Wellington_Highlighted.svg.png
   name: Wellington
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Wellsville_Highlighted.svg/250px-Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Wellsville_Highlighted.svg.png
   name: Wellsville
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Brutus_2006-07-02_2244.jpg/250px-Brutus_2006-07-02_2244.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_West_Mineral_Highlighted.svg/250px-Cherokee_County_Kansas_Incorporated_and_Unincorporated_areas_West_Mineral_Highlighted.svg.png
   name: West Mineral
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PottawatomieCoCH.JPG/250px-PottawatomieCoCH.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Westmoreland_Highlighted.svg/250px-Pottawatomie_County_Kansas_Incorporated_and_Unincorporated_areas_Westmoreland_Highlighted.svg.png
   name: Westmoreland
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Westphalia_Highlighted.svg/250px-Anderson_County_Kansas_Incorporated_and_Unincorporated_areas_Westphalia_Highlighted.svg.png
   name: Westphalia
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/WestwoodCityHall.jpeg/250px-WestwoodCityHall.jpeg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Westwood_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Westwood_Highlighted.svg.png
   name: Westwood
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Westwood_Hills_Highlighted.svg/250px-Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Westwood_Hills_Highlighted.svg.png
   name: Westwood Hills
@@ -1221,43 +1221,43 @@ data:
   name: Wheaton
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_White_City_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_White_City_Highlighted.svg.png
   name: White City
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/VIEW_OF_THE_MAIN_STREET_OF_WHITE_CLOUD%2C_KANSAS%2C_NEAR_TROY%2C_IN_THE_NORTHEAST_CORNER_OF_THE_STATE._AT_THE_EXTREME_RIGHT..._-_NARA_-_557155.jpg/250px-VIEW_OF_THE_MAIN_STREET_OF_WHITE_CLOUD%2C_KANSAS%2C_NEAR_TROY%2C_IN_THE_NORTHEAST_CORNER_OF_THE_STATE._AT_THE_EXTREME_RIGHT..._-_NARA_-_557155.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_White_Cloud_Highlighted.svg/250px-Doniphan_County_Kansas_Incorporated_and_Unincorporated_areas_White_Cloud_Highlighted.svg.png
   name: White Cloud
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Whitewater_Highlighted.svg/250px-Butler_County_Kansas_Incorporated_and_Unincorporated_areas_Whitewater_Highlighted.svg.png
   name: Whitewater
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Whiting_Highlighted.svg/250px-Jackson_County_Kansas_Incorporated_and_Unincorporated_areas_Whiting_Highlighted.svg.png
   name: Whiting
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wichita-ks.jpg/310px-Wichita-ks.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Wichita_Highlighted.svg/250px-Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Wichita_Highlighted.svg.png
   name: Wichita
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Willard_Highlighted.svg/250px-Shawnee_County_Kansas_Incorporated_and_Unincorporated_areas_Willard_Highlighted.svg.png
   name: Willard
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Williamsburg_Church_%26_Museum.JPG/250px-Williamsburg_Church_%26_Museum.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Williamsburg_Highlighted.svg/250px-Franklin_County_Kansas_Incorporated_and_Unincorporated_areas_Williamsburg_Highlighted.svg.png
   name: Williamsburg
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Willis_Highlighted.svg/250px-Brown_County_Kansas_Incorporated_and_Unincorporated_areas_Willis_Highlighted.svg.png
   name: Willis
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Willowbrook_Highlighted.svg/250px-Reno_County_Kansas_Incorporated_and_Unincorporated_areas_Willowbrook_Highlighted.svg.png
   name: Willowbrook
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wilmore%2C_Kansas_%281900%29.jpg/250px-Wilmore%2C_Kansas_%281900%29.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Comanche_County_Kansas_Incorporated_and_Unincorporated_areas_Wilmore_Highlighted.svg/250px-Comanche_County_Kansas_Incorporated_and_Unincorporated_areas_Wilmore_Highlighted.svg.png
   name: Wilmore
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Wilsey_Highlighted.svg/250px-Morris_County_Kansas_Incorporated_and_Unincorporated_areas_Wilsey_Highlighted.svg.png
   name: Wilsey
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wilson_KS_2008a.jpg/250px-Wilson_KS_2008a.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Wilson_Highlighted.svg/250px-Ellsworth_County_Kansas_Incorporated_and_Unincorporated_areas_Wilson_Highlighted.svg.png
   name: Wilson
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Winchester_Kansas_Post_Office_9-16-2014.JPG/250px-Winchester_Kansas_Post_Office_9-16-2014.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Winchester_Highlighted.svg/250px-Jefferson_County_Kansas_Incorporated_and_Unincorporated_areas_Winchester_Highlighted.svg.png
   name: Winchester
-- image_url: https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Windom_Kansas.gif/250px-Windom_Kansas.gif
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Windom_Highlighted.svg/250px-McPherson_County_Kansas_Incorporated_and_Unincorporated_areas_Windom_Highlighted.svg.png
   name: Windom
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cowley_County_National_Bank_Building.JPG/250px-Cowley_County_National_Bank_Building.JPG
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Winfield_Highlighted.svg/250px-Cowley_County_Kansas_Incorporated_and_Unincorporated_areas_Winfield_Highlighted.svg.png
   name: Winfield
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logan_County_Kansas_Incorporated_and_Unincorporated_areas_Winona_Highlighted.svg/250px-Logan_County_Kansas_Incorporated_and_Unincorporated_areas_Winona_Highlighted.svg.png
   name: Winona
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Woodbine_Kansas_8-20-2010.jpg/250px-Woodbine_Kansas_8-20-2010.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Woodbine_Highlighted.svg/250px-Dickinson_County_Kansas_Incorporated_and_Unincorporated_areas_Woodbine_Highlighted.svg.png
   name: Woodbine
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Woodston_Kansas_City_Office_est_1910.jpg/250px-Woodston_Kansas_City_Office_est_1910.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Woodston_Highlighted.svg/250px-Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Woodston_Highlighted.svg.png
   name: Woodston
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Woodson_County_Courthouse%2C_Yates_Center%2C_KS.jpg/250px-Woodson_County_Courthouse%2C_Yates_Center%2C_KS.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Woodson_County_Kansas_Incorporated_and_Unincorporated_areas_Yates_Center_Highlighted.svg/250px-Woodson_County_Kansas_Incorporated_and_Unincorporated_areas_Yates_Center_Highlighted.svg.png
   name: Yates Center
 - image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Zenda_Highlighted.svg/250px-Kingman_County_Kansas_Incorporated_and_Unincorporated_areas_Zenda_Highlighted.svg.png
   name: Zenda
-- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Zurich_Kansas_Community_Center.jpg/250px-Zurich_Kansas_Community_Center.jpg
+- image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Zurich_Highlighted.svg/250px-Rooks_County_Kansas_Incorporated_and_Unincorporated_areas_Zurich_Highlighted.svg.png
   name: Zurich
