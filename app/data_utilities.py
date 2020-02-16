@@ -4,9 +4,9 @@ import os
 def join_images_to_city_name(city_payload, image_mappings):
     for city in city_payload:
         # Get the county value from the list.
-        print(city)
+        # print(city)
         image = [image for image in image_mappings if image["name"] == city["name"]][0]
-        print(image)
+        # print(image)
         image_data = {
             "image_url": image["image_url"]
         }
@@ -16,9 +16,9 @@ def join_images_to_city_name(city_payload, image_mappings):
 def join_population_to_city_name(city_payload, population_mappings):
     for city in city_payload:
         # Get the county value from the list.
-        print(city)
+        # print(city)
         population = [population for population in population_mappings if population["name"] == city["name"]][0]
-        print(population)
+        # print(population)
         population_data = {
             "population": population["population"].replace(',', '')
         }
@@ -30,9 +30,9 @@ def join_county_to_city_name(county_mappings, list_of_cities):
     # Loop through all the cities add and their respective county mapping to the list.
     for city in list_of_cities:
         # Get the county value from the list.
-        print(county_mappings)
+        # print(county_mappings)
         county = [county for county in county_mappings if county["name"] == city][0]
-        print(county)
+        # print(county)
         test = {
             "name": city,
             "county": county["county"].split(",")[0]
@@ -61,9 +61,9 @@ def _join_city_and_county_mapping(city_data, county_mappings):
 
 
 def load_data_file(name):
-    print("Data file")
+    # print("Data file")
     data_file = f"{name}"
-    print(data_file)
+    # print(data_file)
     data = []
     with open(data_file, 'r') as file:
         for file_line in file:
@@ -71,14 +71,14 @@ def load_data_file(name):
     return data
 
 def load_yaml_data_file(name):
-    print("load_yaml_data_file")
+    # print("load_yaml_data_file")
     data_file = f"{name}"
-    print(data_file)
+    # print(data_file)
     data = None
     with open(data_file, 'r') as stream:
         try:
             data = yaml.safe_load(stream)
-            print()
+            # print()
         except yaml.YAMLError as exc:
             print(exc)
     return data
