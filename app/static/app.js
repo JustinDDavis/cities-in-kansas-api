@@ -21,6 +21,33 @@ function write_city_tables(api_data_results){
 
             document.getElementById("results").innerHTML = html_results;
 }
+var sort_name_toggle = false;
+function sort_name(){
+    document.getElementById("results").innerHTML = "";
+    console.log("sort by name");
+    sort_name_toggle = !sort_name_toggle;
+
+    api_data_results["data"].sort((city1, city2)=>{
+        if(sort_name_toggle){
+            if (city1.name > city2.name) {
+                return 1;
+            }
+            if (city2.name > city1.name) {
+                return -1;
+            }
+            return 0;
+        }else{
+            if (city2.name > city1.name) {
+                return 1;
+            }
+            if (city1.name > city2.name) {
+                return -1;
+            }
+            return 0;
+        }
+    });
+    write_city_tables(api_data_results);
+}
 
 var sort_population_toggle = false;
 function sort_population(){
@@ -81,6 +108,7 @@ function sort_county(){
             document.getElementById("results").innerHTML = `Error retrieving results : ${error}`;
         });
 
+    document.getElementById('city-name-sort').addEventListener("click", sort_name);
     document.getElementById('population-sort').addEventListener("click", sort_population);
     document.getElementById('county-sort').addEventListener("click", sort_county);
 
