@@ -93,6 +93,30 @@ function sort_county(){
     write_city_tables(api_data_results);
 }
 
+function search_data(){
+    //search-box
+    const searchString = document.getElementById('search-box').value;
+    console.log(searchString);
+
+    try{
+         const data = api_data_results["data"].filter((city)=>{
+            if(city.name.toLowerCase().includes(searchString.toLowerCase())){
+                return true
+            }else{
+                return false
+            }
+        });
+        write_city_tables({
+            'data':data
+        });
+    }catch(err){
+        console.log(err);
+    }
+
+
+
+}
+
 
 (function(){
     const url = '/api/ks/cities';
@@ -108,6 +132,7 @@ function sort_county(){
             document.getElementById("results").innerHTML = `Error retrieving results : ${error}`;
         });
 
+    document.getElementById('search-box').addEventListener("input", search_data);
     document.getElementById('city-name-sort').addEventListener("click", sort_name);
     document.getElementById('population-sort').addEventListener("click", sort_population);
     document.getElementById('county-sort').addEventListener("click", sort_county);
