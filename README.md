@@ -1,9 +1,8 @@
 
-# Simple Flask Demo
+# Cities in Kansas API
 
 ## Purpose
-This project is something I put together to help reiterate my understanding of Flask. It is not meant to be production ready or really that useful, but as something that I can help
-judge my own development progress. 
+A quick reference to the towns and cities in Kansas. Data is coming from Wikipedia and will need updated as new information becomes available. 
 
 ## Demo:
 > Website: https://justindaniel92.pythonanywhere.com/  
